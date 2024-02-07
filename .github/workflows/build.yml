@@ -1,0 +1,39 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  trigger-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use github-scripts
+        uses: actions/github-script@v7
+        with:
+            github-token: ${{ secrets.GITHUB_TOKEN }}
+            script: |
+                const activeWorkflows = await github.rest.actions.listWorkflowRuns({
+                    owner: 'pompeybug',
+                    repo: 'website',
+                    workflow_id: 'static.yml',
+                    status: 'in_progress'
+                });
+
+                if (activeWorkflows?.data) {
+                    for (const run of activeWorkflows.data['workflow_runs']) {
+                        await github.rest.actions.cancelWorkflowRun({
+                            owner: 'pompeybug',
+                            repo: 'website',
+                            run_id: run.id,
+                          });
+                    }
+                }
+
+                await github.rest.actions.createWorkflowDispatch({
+                owner: 'pompeybug',
+                repo: 'website',
+                workflow_id: 'static.yml',
+                ref: 'main',
+                })
