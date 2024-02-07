@@ -12,7 +12,7 @@ jobs:
       - name: Use github-scripts
         uses: actions/github-script@v7
         with:
-            github-token: ${{ secrets.GITHUB_TOKEN }}
+            github-token: ${{ secrets.PAT }}
             script: |
                 const activeWorkflows = await github.rest.actions.listWorkflowRuns({
                     owner: '${{ vars.WEBSITE_OWNER }}',
