@@ -15,8 +15,8 @@ jobs:
             github-token: ${{ secrets.GITHUB_TOKEN }}
             script: |
                 const activeWorkflows = await github.rest.actions.listWorkflowRuns({
-                    owner: 'pompeybug',
-                    repo: 'website',
+                    owner: '$owner',
+                    repo: '$website_repo',
                     workflow_id: 'static.yml',
                     status: 'in_progress'
                 });
@@ -24,16 +24,16 @@ jobs:
                 if (activeWorkflows?.data) {
                     for (const run of activeWorkflows.data['workflow_runs']) {
                         await github.rest.actions.cancelWorkflowRun({
-                            owner: 'pompeybug',
-                            repo: 'website',
+                            owner: '$owner',
+                            repo: '$website_repo',
                             run_id: run.id,
                           });
                     }
                 }
 
                 await github.rest.actions.createWorkflowDispatch({
-                owner: 'pompeybug',
-                repo: 'website',
+                owner: '$owner',
+                repo: '$website_repo',
                 workflow_id: 'static.yml',
                 ref: 'main',
                 })
