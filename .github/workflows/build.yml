@@ -5,6 +5,10 @@ on:
     branches: [main]
   workflow_dispatch:
 
+permissions: 
+  actions: write
+
+
 jobs:
   trigger-build:
     runs-on: ubuntu-latest
@@ -12,7 +16,7 @@ jobs:
       - name: Use github-scripts
         uses: actions/github-script@v7
         with:
-            github-token: ${{ secrets.PAT }}
+            github-token: ${{ secrets.GITHUB_TOKEN }}
             script: |
                 const activeWorkflows = await github.rest.actions.listWorkflowRuns({
                     owner: '${{ vars.WEBSITE_OWNER }}',
