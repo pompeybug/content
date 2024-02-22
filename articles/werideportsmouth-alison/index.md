@@ -1,11 +1,10 @@
 ---
-title: WeRidePortsmouth - Alison
+title: "#WeRidePortsmouth - Alison"
 date: 2024-01-27
 tags:
  - WeRidePortsmouth
  - women-cycling
  - stories
- - example
 coverImage: ./alison.jpg
 coverImageAlignment: top
 ---
