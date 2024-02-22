@@ -36,5 +36,4 @@ jobs:
                 repo: '${{ vars.WEBSITE_REPO }}',
                 workflow_id: 'static.yml',
                 ref: 'main',
-                inputs: { updateSubmodules: true }
                 })
