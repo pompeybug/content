@@ -7,3 +7,4 @@ tags:
 
 This is a test.
 The test is now concluded.
+This test article has been updated
