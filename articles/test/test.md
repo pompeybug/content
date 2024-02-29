@@ -1,12 +1,8 @@
 ---
 title: test
-date: 2024-02-29T16:13:20.090Z
-images:
-  - image: ./7afgdle1ndhc1.webp
-    file: 7afgdle1ndhc1.webp
+date: 2024-02-29T16:16:28.248Z
+images: []
 author: Emily Medhurst
-coverImage: ./PXL_20231205_195346985.jpg
+coverImage: ./undefined
 ---
-Your content here
-
-![](./7afgdle1ndhc1.webp)
+Your content here lol
