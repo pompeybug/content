@@ -4,5 +4,6 @@ date: 2024-03-19T16:38:29.368Z
 initialSlug: test1100
 images: []
 author: Emily Medhurst
+coverImage: ./7afgdle1ndhc1 (1).webp
 ---
 Your content here
