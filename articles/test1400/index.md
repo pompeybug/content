@@ -5,11 +5,11 @@ initialSlug: test1400
 images:
   - file: 427904801_913060120532596_5089459253910728150_n.jpg
     image: ./427904801_913060120532596_5089459253910728150_n.jpg
-  - file: 7afgdle1ndhc1.webp
-    image: ./7afgdle1ndhc1.webp
+  - file: 2b4p35d7zoec1.jpeg
+    image: ./2b4p35d7zoec1.jpeg
 author: Emily Medhurst
 coverImage: ./extracting-stagecoach-word-of-the-day.webp
 ---
 Your content here
 
-![](./427904801_913060120532596_5089459253910728150_n.jpg)![](./7afgdle1ndhc1.webp)
+![](./427904801_913060120532596_5089459253910728150_n.jpg)![](./2b4p35d7zoec1.jpeg)
