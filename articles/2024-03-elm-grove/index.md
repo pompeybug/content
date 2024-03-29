@@ -67,7 +67,7 @@ of parking spaces on Elm Grove.  The PCF committee are concerned
 about the new location for two one-hour restricted parking spaces
 on Grove Road South due to the potential for just creating a new
 obstruction to the free flow of highway here. Southbound cyclists will
-still have to manoeuvre around stationery vehicles, and northbound
+now have to manoeuvre around stationery vehicles, and northbound
 cyclists will face oncoming vehicles in their lane (including buses
 exiting the nearby bus stop).
 
