@@ -84,7 +84,7 @@ building is complete.
 
 ## Step 2: Respond to PCC
 The deadline for responses is **no later than 10th April 2024**. Responses
-should be emailed to [TROteam@portsmouthcc.gov.uk](mailto:TROteam@portsmouthcc.gov.uk?subject=Elm%20Grove%20TRO&cc=info@pompeybug.org.uk)
+should be emailed to [TROteam@portsmouthcc.gov.uk](mailto:TROteam@portsmouthcc.gov.uk?subject=Elm%20Grove%20TRO&cc=info@pompeybug.co.uk)
 and clearly state whether you support the proposed scheme.
 
 ### Related PDFs
