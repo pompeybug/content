@@ -22,7 +22,7 @@ This validation showed me that others believed in the idea too. It motivated us 
 
 One day when we were at Southsea cinema, I suggested the name "Coconuts". My wife was unsure at first, but I envisioned it sparking curiosity. It’s easy to read and pronounce, unlike some tricky company names.
 
-Earlier that week, "Coconuts" kept popping up. Playing with Danielle, we saw a Blippi episode about coconut ice cream. During a remote meeting, a transcription included "coconuts." Later, while watching Moana with Danièle, there was a song about coconuts. It felt like a sign, and I realised it was a great name.
+Earlier that week, "Coconuts" kept popping up. Playing with Danièle, we saw a Blippi episode about coconut ice cream. During a remote meeting, a transcription included "coconuts." Later, while watching Moana with Danièle, there was a song about coconuts. It felt like a sign, and I realised it was a great name.
 
 Our Coconuts bike naturally sparks conversations. When I park it in the city, especially in creative spots due to our temporary lack of storage, people often ask, "What is this?" It’s a great conversation starter.
 
@@ -46,7 +46,7 @@ We need long-term, passionate council members and middle management who will adv
 
 ## What else would you like to add?
 
-My message to people, especially those with families, is to include them in cycling. It doesn't have to be extreme. We recently got a fold-up bike, which my short-statured wife found suitable and enjoyable. It's about doing it together. Our daughter, Danielle, also has a little bike, so we try to include everyone, even if it's just a short ride. This way, kids can have the cycling experience, even in tougher environments.
+My message to people, especially those with families, is to include them in cycling. It doesn't have to be extreme. We recently got a fold-up bike, which my short-statured wife found suitable and enjoyable. It's about doing it together. Our daughter, Danièle, also has a little bike, so we try to include everyone, even if it's just a short ride. This way, kids can have the cycling experience, even in tougher environments.
 
 If you have a friend who is hesitant, I'd suggest to start with a ride together—it's a natural choice. Afterward, grab a coffee and cake to make it enjoyable and sociable.
 
