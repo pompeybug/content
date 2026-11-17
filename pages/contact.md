@@ -1,5 +1,8 @@
 ---
 title: Contact Us
+description: "Get in touch with Portsmouth Cycle Forum, the volunteer-led cycling campaign group for Portsmouth: email info@pompeybug.co.uk or find us on Facebook."
+redirect_from:
+  - contact-us
 tags: 
  - pcf
 todo:

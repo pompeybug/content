@@ -10,7 +10,7 @@ With immense regret and sorrow we have to report the untimely death of John Holl
 
 John was one of the founders of Portsmouth Cycle Forum, which was established as an independent campaigning voice by four committed individuals: John, Mike Dobson, Paul Iggulden and Paul Dawson. A prototype cycle forum had originally been started by the city council, but when it became clear that cyclists were demanding more than bland reassurances the council decided to cut the funding and close it down. However, John, Mike, Paul and Paul had other ideas. Recognising cyclists needed a strong voice to hold the local authority to account the four took responsibility to establish Portsmouth Cycle Forum as a citizen-led campaign.
 
-![](/assets/DSC_0338-scaled.jpg?fit=1024%2C681&ssl=1)
+![John Holland](./DSC_0338-scaled.jpg)
 
 _John chairs the CTC / Cyclenation ‘Future Cycling Cities’ conference, hosted in Portsmouth in 2010._
 

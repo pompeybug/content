@@ -53,4 +53,4 @@ We thank Roger and Stella for sharing their inspiring story. Their experience hi
 Roger is also a volunteer for cycling organisations Pompey Pedals, which gives people the opportunity to cycle on a regular basis through help, support and guidance and [Cycling Without Age](https://theyoutrust.org.uk/cycling-without-age/), an initiative where volunteers take older people and those with mobility difficulties out on ‘trishaw’ cycle rides. 
 Would you like to share your story about ordinary people doing ordinary things on their bikes in the city? We’d love to hear from you.
 
-Get in touch at [info@pompeybug.co.uk](info@pompeybug.co.uk)
+Get in touch at [info@pompeybug.co.uk](mailto:info@pompeybug.co.uk)

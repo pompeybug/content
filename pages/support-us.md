@@ -1,5 +1,8 @@
 ---
 title: Donate - Support Us!
+description: Membership of Portsmouth Cycle Forum is free. A donation helps cover the printing, postage, event and website costs of our cycling campaign in Portsmouth.
+redirect_from:
+  - donate
 tags:
  - pcf
 ---

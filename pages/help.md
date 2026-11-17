@@ -1,5 +1,6 @@
 ---
 title: Help
+description: Portsmouth Cycle Forum is run entirely by volunteers. Find out how you could help, from reporting problems with cycle routes to responding to council consultations.
 tags: 
  - pcf
 ---

@@ -1,5 +1,6 @@
 ---
 title: Who we are
+description: Portsmouth Cycle Forum is an independent, volunteer-led cycle campaign group for everyone who cycles, or wants to cycle, in Portsmouth. Meet the committee.
 tags:
   - pcf
   - committee

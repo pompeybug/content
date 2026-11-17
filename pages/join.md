@@ -1,5 +1,9 @@
 ---
 title: Become a Member!
+description: Join Portsmouth Cycle Forum for free. Sign up to our mailing list to become a member and hear about cycling campaigns, rides and meetings in Portsmouth.
+redirect_from:
+  - become-a-member
+  - membership
 hubspotForm:
   region: eu1
   portalId: "143202733"
