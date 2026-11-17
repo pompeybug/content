@@ -4,7 +4,6 @@ description: Membership of Portsmouth Cycle Forum is free. A donation helps cove
 redirect_from:
   - donate
 tags:
- - pcf
 ---
 
 Membership of Portsmouth Cycle Forum is **free**, because we want to encourage as many cyclists as we can to engage with our campaign. However, any campaign has some costs and the cycle forum is no different.
