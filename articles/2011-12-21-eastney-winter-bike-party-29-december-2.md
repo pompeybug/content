@@ -1,9 +1,8 @@
 ---
 title: Eastney Winter Bike Party - 29 December
 id: 2927
-tags:
-  - events
 date: 2011-12-21
+section: rides-and-events
 ---
 
 Come along to the Eastney Winter Bike Party party on 29 December. There'll be festive fun and bike games, security marking, bling your bike, xmas biscuits and bike checks with Dr Bike.

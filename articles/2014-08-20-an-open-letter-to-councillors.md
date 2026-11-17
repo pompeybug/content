@@ -2,10 +2,10 @@
 title: An Open Letter to Councillors
 id: 4170
 tags:
-  - campaigns
   - opinion
   - city-council
 date: 2014-08-20 08:03:54
+section: campaigns
 ---
 
 

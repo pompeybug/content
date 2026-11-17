@@ -1,11 +1,10 @@
 ---
-
 title: Waitrose launches free bike trailers
 date: 2009-02-06
 tags:
-    - cargo-bikes
-    - "2009"
+  - cargo-bikes
 ok: true
+section: news
 ---
 
 Bikeradar reports that some 21 [Waitrose stores across the country are introducing free bike trailers](http://www.bikeradar.com/beginners/news/article/waitrose-launches-free-bike-trailers-19847) to help shoppers get their goods home by bicycle.

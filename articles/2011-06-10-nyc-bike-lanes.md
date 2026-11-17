@@ -2,10 +2,10 @@
 title: NYC Bike Lanes
 id: 2422
 tags:
-  - campaigns
   - cycle-routes
 date: 2011-06-10
 ok: true
+section: campaigns
 ---
 
 A video posted to YouTube by a New York City cyclist fined for not riding in the bike lane provides some laughs as he uses slapstick humour to reinforce the point he made to the NYPD officer ticketing him that the bike lane isn’t always the safest place to be.  Not that the officer was having any of it – he went ahead and issued the summons, telling the cyclist, Casey Neistat, that he faced a fine of anywhere between $10 and $130, despite the rider pointing out that the driver of a nearby vehicle parked in a bus lane wasn’t being given similar treatment.

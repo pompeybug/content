@@ -1,15 +1,14 @@
 ---
-
 title: Transport Stakeholders Liaison Group - Report
 id: 4274
 tags:
-  - city-Council
-  - meetings
-  - A City to Share
+  - city-council
+  - a-city-to-share
 date: 2014-12-03 21:39:24
 coverImage: ./4018132108-300x212.jpg
 caption: A Bus Lane
 ok: true
+section: campaigns
 ---
 
 On Tuesday 2nd December Portsmouth Cycle Forum was invited to the first meeting of the City Council's Transport Stakeholder Liaison Group. The new Tory administration has significantly widened the engagement of these transport stakeholder meetings. There are now no fewer than five groups:

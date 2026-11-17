@@ -2,11 +2,11 @@
 title: How do cyclists, pedestrians and the disabled get around road works?
 id: 1803
 tags:
-  - campaigns
-  - access
+  - roadworks
 date: 2011-02-11
 coverImage: /public/assets/sign-on-path-wide.jpg
 caption: A shared footway obstructed by a road sign.
+section: campaigns
 ---
 
 How do cyclists, pedestrians and the disabled get around road works?  With quite a lot of difficulty in Portsmouth, but there is hope that this may change.

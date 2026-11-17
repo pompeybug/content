@@ -8,6 +8,7 @@ tags:
   - sehrt
 date: 2023-08-30
 coverImage: "./lakeroad.png"
+section: campaigns
 ---
 
 # Traffic & Transportation Cabinet Decision Meeting - 18th August 2023

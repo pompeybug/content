@@ -2,10 +2,11 @@
 title: Cycle Phase Acknowledgement
 date: 2023-12-30
 tags:
- - scrapbook
- - velder-ave
- - infrastructure
+  - scrapbook
+  - velder-ave
+  - infrastructure
 coverImage: ./velder.png
+section: campaigns
 ---
 
 The cycling infrastructure at the Velder Avenue junction has been improved after repeated requests from PCF over many years.

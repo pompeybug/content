@@ -1,10 +1,10 @@
 ---
-
 title: Swan Ride to Emsworth - Sunday 30 September
 id: 3511
 tags:
   - rides
 date: 2012-09-29
+section: rides-and-events
 ---
 
 We are off on our end of month ride again this Sunday 30 September..

@@ -2,8 +2,9 @@
 title: Public Meeting at University of Portsmouth
 date: 2024-02-05
 tags:
- - open meeting
+  - open-meeting
 coverImage: ./lee.png
+section: meetings
 ---
 
 * **Date:** Thursday 8th February 2024 at 7.00pm

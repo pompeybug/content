@@ -1,7 +1,8 @@
 ---
-title: Learning to code 
+title: Learning to code
 date: 2024-01-10
 coverImage: ./tron.png
+section: stories
 ---
 
 I cannot claim to be good at web stuff. At all. And yet, this evening, within half an hour, Rich (our webmaster) has taught me how to code well enough to write this article and publish it to our website. 

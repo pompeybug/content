@@ -1,13 +1,12 @@
 ---
-
 title: Seafront masterplan response
 date: 2020-10-15
-tags:  
+tags:
   - city-council
   - infrastructure
-  - pcf 
   - seafront
 coverImage: "./IMG_20201009_125502.jpg"
+section: campaigns
 ---
 
 Below is PCFs comments on the Seafront Masterplan:

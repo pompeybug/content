@@ -2,11 +2,11 @@
 title: Exchanging Places
 id: 4165
 tags:
-  - pcc
-  - events
+  - city-council
 date: 2014-08-03
 coverImage: ./Exchanging-Places-main-ed-300x206.jpg
-caption:  Visualising truck blind spots
+caption: Visualising truck blind spots
+section: rides-and-events
 ---
 
 Portsmouth City Council Road Safety &amp; Active Travel team, supported by Sustrans will be running an event to raise awareness of the current cyclist casualty trend at junctions where 78% of cycle collisions in Portsmouth occur.

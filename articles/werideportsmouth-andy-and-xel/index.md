@@ -2,10 +2,10 @@
 title: "#WeRidePortsmouth - Andy and Xel"
 date: 2024-07-14
 tags:
- - WeRidePortsmouth
- - stories
+  - we-ride-portsmouth
 coverImage: ./coconuts.jpg
 coverImageAlignment: top
+section: stories
 ---
 
 Andy and his wife Xel, are the founders of [Coconuts](http://coconuts.delivery), Portsmouth's first cargo bike delivery service. Launched in 2022, the idea came to life when Andy, a long-time cycling and active travel enthusiast, discovered a cargo bike that had been retired by its previous owner. Since then, the family has dedicated themselves to developing and perfecting the concept of a cargo bike delivery service. Today, Coconuts cargo bike can be spotted around Portsmouth, delivering goods for various businesses, saving both time and the planet.

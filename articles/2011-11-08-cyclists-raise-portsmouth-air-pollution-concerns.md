@@ -1,12 +1,12 @@
 ---
-
 title: Cyclists raise Portsmouth air pollution concerns
 id: 2806
 tags:
-  - campaigns
+  - air-quality
 date: 2011-11-08
 todo:
   - KT's website is no more, so if we can, let's link to it in web.archive.org
+section: campaigns
 ---
 
 Portsmouth Cycle Forum members Owen Devine and Hilary Reed met Green Party MEP, Keith Taylor at Victoria Road North to discuss the city's air pollution problems on 3 November. The MEP is leading a campaign to urge councils to  take more action to reduce levels of nitrogen dioxide - saying thousands of lives are at risk over the long term from vehicle pollution. City council leader Gerald Vernon-Jackson insisted the council was taking measures to reduce pollution from motor vehicles.

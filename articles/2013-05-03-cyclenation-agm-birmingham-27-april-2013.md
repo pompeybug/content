@@ -2,8 +2,10 @@
 title: Cyclenation AGM, Birmingham 27 April 2013
 id: 3656
 tags:
-  - campaigns
+  - agm
+  - cyclenation
 date: 2013-05-03
+section: news
 ---
 
 The Annual General Meeting in Birmingham was attended by Jayne Rodgers and John Holland who represented Portsmouth Cycle Forum. Cyclenation is the federation of cycle campaign groups across the UK.

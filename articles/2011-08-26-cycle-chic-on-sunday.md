@@ -1,11 +1,10 @@
 ---
-
 title: cycle chic on Sunday
 id: 2665
 tags:
-  - events
   - rides
 date: 2011-08-26
+section: rides-and-events
 ---
 
 Dress up in your finery and show off your beautiful bike.  Get out the bike you love and join us for a bicycle promenade around Southsea. Dressing up is optional, but for some cycle chic inspiration check out [London cycle chic](http://londoncyclechic.blogspot.com/ ),

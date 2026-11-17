@@ -2,10 +2,10 @@
 title: Get Britain Cycling
 id: 3649
 tags:
-  - campaigns
-  - pcc
+  - city-council
   - cycle-routes
 date: 2013-04-24
+section: campaigns
 ---
 
 The All Party Parliamentary Cycling Group (APPCG) released their Get Britain Cycling report today.  The report follows a six-week long inquiry hosted by the APPCG at the Palace of Westminster earlier this year calls for 10% of all journeys in Britain to be made by bike by 2025.  Some of the headline recommendations made to enable this goal include:

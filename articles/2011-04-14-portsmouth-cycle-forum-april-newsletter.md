@@ -4,6 +4,7 @@ id: 2237
 tags:
   - newsletter
 date: 2011-04-14
+section: news
 ---
 
 The [April Newsletter](/public/assets/docs/PCF-Newsletter-April-2011.pdf) is now available with the latest news and views on cycling in Portsmouth.

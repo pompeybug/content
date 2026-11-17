@@ -1,12 +1,12 @@
 ---
-
 title: Cycle Forum Open Meeting Thursday 13 September
 id: 3492
 tags:
-  - meetings
+  - open-meeting
 date: 2012-09-10
 caption: Olympic legacy
 coverImage: /public/assets/olympic_legacy_children_playing_in_olympic_rings.jpg
+section: meetings
 ---
 
 Our open meeting on 13 September will be at the Stacey Community Centre in Walsall Road Copnor PO3 6DN near St Mary's Hospital.

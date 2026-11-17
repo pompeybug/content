@@ -1,14 +1,13 @@
 ---
-
 title: Best Practice Guide to Cycling in Pedestrian Areas areas
 date: 2009-03-27
 tags:
-    - pcc
-    - infrastructure
-    - shared-use
-    - "2009"
+  - city-council
+  - infrastructure
+  - shared-paths
 todo: We don't have a copy of this document any more - perhaps you do, if so, let us know and we'll add it to the archive!
 ok: true
+section: campaigns
 ---
 
 Portsmouth Cycle Forum has prepared a document detailing the technical aspects of permitting cycling on sections of Southsea promenade.

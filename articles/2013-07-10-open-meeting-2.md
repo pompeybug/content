@@ -1,11 +1,10 @@
 ---
-
 title: Open Meeting
 tags:
   - open-meeting
-  - pcf
 id: 3750
 date: 2013-07-10 13:41:34
+section: meetings
 ---
 
 The next PCF open meeting will take place at 7pm on Thursday 11th July at the Stacey Centre.  A late breaking addition to the agenda of the meeting is that Julian Clarke of Transport Planning Associates will be coming to brief on the proposed development of a new Tesco Store on Fratton Way and the options for rerouting the shared use pedestrian and cycle route (Milton Lane) that runs across the proposed site and past Fratton Park.

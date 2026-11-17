@@ -2,10 +2,9 @@
 title: PCC agrees changes to Palmerston, Osborne & Henderson Roads
 id: 4154
 tags:
-  - campaigns
-  - pcc
-  - meetings
+  - city-council
 date: 2014-07-25 13:05:26
+section: campaigns
 ---
 
 ## Cycle Forum makes deputations to Portsmouth City Council meeting

@@ -4,6 +4,7 @@ id: 3324
 tags:
   - cyclenation
 date: 2012-06-08 19:30:00
+section: news
 ---
 
 Edinburgh and Lothian's cycle campaign _Spokes_ has announced that it is to stop publicising cycling events that require participants to wear a helmet. It calls upon other organisations concerned about public health to do the same.

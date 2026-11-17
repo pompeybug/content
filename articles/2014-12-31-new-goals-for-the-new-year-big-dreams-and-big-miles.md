@@ -1,14 +1,13 @@
 ---
-
 title: 'New Goals for the New Year: Big dreams and big miles '
 id: 4289
 tags:
-  - campaigns
   - opinion
-  - A City to Share
+  - a-city-to-share
 date: 2014-12-31 18:19:21
 caption: Tommy Godwin, Year record holder (source Tommygodwin.com)
 figure: Tommy-Godwin-Year-record-holder-300x199.jpg
+section: stories
 ---
 
 

@@ -1,14 +1,12 @@
 ---
-
 title: Who will you be voting for?
 date: 2019-04-25
-tags:  
-  - campaigns
+tags:
   - city-council
-  - elections 
-  - election
-  - A City to Share
+  - elections
+  - a-city-to-share
 coverImage: "./Polling-station.jpg"
+section: campaigns
 ---
 
 It’s election time (again). 3 out of every 4 years Portsmouth holds local elections and so, 3 out of 4 years we hold a hustings event to find out what each of the parties plans to do to tackle safety for people on bikes in our City.

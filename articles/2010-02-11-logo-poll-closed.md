@@ -1,12 +1,12 @@
 ---
-
 title: Logo Poll Closed
 id: 953
 tags:
-  - pcf
+  - logo
 date: 2010-02-11 12:09:25
 caption: Logo Montage
 figure: /assets/logomontage.png
+section: news
 ---
 
 Voting for a new PCF Logo is officially over and the results have been counted! The winner will be announced at the King Street Tavern tonight (11th February, we'll be there from 7:30ish).

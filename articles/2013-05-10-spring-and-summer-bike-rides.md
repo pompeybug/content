@@ -1,11 +1,10 @@
 ---
-
 title: Spring and Summer Bike Rides
 id: 3669
 tags:
-  - pcf
   - rides
 date: 2013-05-10
+section: rides-and-events
 ---
 
 We have just finalised our programme of rides for the coming few months.  The rides are open to riders of all abilities, young or old, fast or slow.  Each of the rides is guided by an experienced, trained ride leader and will move at the pace of the slowest rider.  These rides are all about seeing the city and its surrounds in a different way and at a relaxed pace.  Why not give them a try?

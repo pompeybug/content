@@ -2,11 +2,11 @@
 title: "#WeRidePortsmouth - Cathy"
 date: 2024-02-22
 tags:
- - WeRidePortsmouth
- - women-cycling
- - stories
+  - we-ride-portsmouth
+  - women-cycling
 coverImage: ./cathy.jpg
 coverImageAlignment: top
+section: stories
 ---
 
 I'm Cathy. Cycling is a daily part of my routine, whether it's commuting to work, running errands, or simply enjoying leisurely rides. It serves as an excellent way to unwind after a busy day and explore the surrounding community. In our flat and compact city, cycling is often the quickest way to reach my destination.

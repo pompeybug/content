@@ -3,7 +3,9 @@ title: Bike Week 2012
 id: 3076
 tags:
   - cyclenation
+  - bike-week
 date: 2012-02-02
+section: news
 ---
 
 National Bike Week, the UK's biggest mass participation cycling event, will be taking place between 16th and 24th June 2012.

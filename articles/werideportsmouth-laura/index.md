@@ -2,11 +2,11 @@
 title: "#WeRidePortsmouth - Laura"
 date: 2024-06-04
 tags:
- - WeRidePortsmouth
- - women-cycling
- - stories
+  - we-ride-portsmouth
+  - women-cycling
 coverImage: ./laura.jpg
 coverImageAlignment: top
+section: stories
 ---
 
 Laura uses a customised electric cycle, designed to connect to her wheelchair, along with a hand cycle for her daily travel in and around the city. The autonomy and social engagement that cycling provides is something she deeply appreciates. As a seasoned cyclist of many years, she would be delighted to see Portsmouth evolve into a preferred destination for cycling.

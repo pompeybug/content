@@ -4,6 +4,7 @@ id: 2779
 tags:
   - cyclenation
 date: 2011-10-19
+section: news
 ---
 
 The CTC and Cyclenation have issued a Memorandum of Understanding and it can be read [here](https://docs.google.com/document/d/1z_sZk7XAjtLY0R0V-Or-UT847teqYbYU8NgYqtWWyyQ/edit?hl=en_US).

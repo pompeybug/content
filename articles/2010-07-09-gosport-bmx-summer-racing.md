@@ -1,9 +1,8 @@
 ---
 title: Gosport BMX Summer Racing
 id: 1331
-tags:
-  - events
 date: 2010-07-09
+section: rides-and-events
 ---
 
 Summer racing comes to the newly extended BMX circuit in Gosport.  The South Region Series Round 9 takes place on Sunday 25th July from from 1pm to 4pm (approx) whilst the National Series Rounds 9 & 10  are on Sat 7th (midday-5pm) & Sunday 8th August (8am-2pm).

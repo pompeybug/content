@@ -1,15 +1,12 @@
 ---
-
 title: Portsmouth Green Fair
 id: 353
 tags:
-  - campaigns
   - environment
-  - events
-  - "2009"
 date: 2009-09-05
 figure: me_greenfairposter09.jpg
 caption: Green Fair Poster
+section: rides-and-events
 ---
 
 Portsmouth Cycle Forum attended the Portsmouth Green Fair in the Guildhall Square on Saturday 5 September.

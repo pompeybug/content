@@ -2,8 +2,7 @@
 title: test
 draft: true
 date: 1970-01-01
-tags:
-  - test
+section: news
 ---
 
 This is a test.

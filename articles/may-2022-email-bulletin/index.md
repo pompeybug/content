@@ -1,15 +1,14 @@
 ---
-
 title: May 2022 email bulletin - social ride 12th June
 date: 2022-05-30
-tags:  
-  - events
-  - pcf 
+tags:
   - agm
   - rides
   - friends-of-the-earth
   - committee
+  - newsletter
 coverImage: "./PXL_20220518_1750315172-scaled.jpg"
+section: news
 ---
 
 **Bike Week 2022**

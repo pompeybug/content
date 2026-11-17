@@ -2,10 +2,10 @@
 title: AGM and Open Meeting Thursday 8 March
 id: 3096
 tags:
-  - events
-  - meetings
   - agm
+  - open-meeting
 date: 2012-03-01
+section: meetings
 ---
 
 Our next open meeting is on Thursday 8 March in Meeting Room 1 at Portsmouth Guildhall from 7-9pm. The first hour will be given over to our Annual General Meeting where we will elect the officers and committee for the 2012/13.

@@ -1,12 +1,10 @@
 ---
-
 title: PCF Committee September 2013
 tags:
   - committee
-  - meetings
-  - pcf
 id: 3814
 date: 2013-09-05
+section: meetings
 ---
 
 The next PCF committee meeting will be held on Friday 6th September at 6pm.

@@ -2,12 +2,12 @@
 title: "James Callaghan Drive - we've invited Councillors and MPs to take a look on 25th November"
 id: 2828
 tags:
-  - campaigns
-  - pcc
+  - city-council
   - cycle-routes
-  - Infrastructure
+  - infrastructure
   - opinion
 date: 2011-11-20
+section: campaigns
 ---
 
 You would be forgiven for not immediately recognising the name of James Callaghan Drive, but many of you may have tried to walk or ride along Portsdown Hill Road. As you travel west the hill road changes into James Callaghan Drive and it is one of the scariest roads to ride along in Portsmouth. On the south side you have a [Site of Special Scientific Interest ](http://www.portsdown.hampshire.org.uk/manage.htm "portsdown SSSi")and on the north side, old forts and farmer's fields. Its almost in the countryside - birds are singing - grass, wildlife, trees and flowers are all around you.  Sounds like a lovely place to take the family for a picnic?

@@ -1,11 +1,8 @@
 ---
-
 title: Cycle Quiz Night
 id: 1548
-tags:
-  - events
-  - meetings
 date: 2010-11-21 19:06:29
+section: rides-and-events
 ---
 
 Join us for our quiz night on Thursday 9 December at the Eldon Arms, Eldon Street, Southsea from 8pm.

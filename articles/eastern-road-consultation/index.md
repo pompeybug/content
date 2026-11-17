@@ -1,14 +1,15 @@
 ---
-
 title: Eastern Road consultation
 date: 2021-02-03
-tags:  
+tags:
   - city-council
   - cycle-routes
-  - infrastructure 
+  - infrastructure
   - eastern-road
   - environment
+  - consultations
 coverImage: "./Eastern-Road-shared-OCR-14jun20-11.jpg"
+section: campaigns
 ---
 
 Just before Christmas, the City Council announced a three year plan to improve the walking and cycling infrastructure along the length of the Eastern road (south of the A27 only) with the first phase to start soon, funded by the Government's Active Travel Fund through which they were awarded around £450,000.

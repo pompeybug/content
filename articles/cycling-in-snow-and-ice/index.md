@@ -1,15 +1,12 @@
 ---
-
 title: Cycling in snow and ice
 date: 2019-02-03
-tags:  
+tags:
   - city-council
   - cycle-routes
-  - infrastructure 
-  - ice
-  - PCC
-  - snow
+  - infrastructure
 coverImage: "./pexels-photo-730130.jpeg"
+section: campaigns
 ---
 
 PCC’s Flagship magazine has proudly declared that “our goal is to ensure all transport routes in and out of the city are clear.” The detail is on the [PCC website](https://www.portsmouth.gov.uk/ext/environment/snow-and-ice-on-the-roads).

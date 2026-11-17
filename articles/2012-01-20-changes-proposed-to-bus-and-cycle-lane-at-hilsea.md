@@ -2,11 +2,13 @@
 title: Changes proposed to Bus and Cycle Lane at Hilsea
 id: 3048
 tags:
-  - pcc
+  - city-council
   - infrastructure
+  - hilsea
 date: 2012-01-20
 coverImage: /public/assets/London-Road-bus-cycle-lane-northbound-9may11-2-400x300-300x225.jpg
 caption: London Road bus & cycle lane northbound
+section: campaigns
 ---
 
 Portsmouth City Council is considering making changes to the bus and cycle lane at London Road, Hilsea near its junction with Northern Parade.

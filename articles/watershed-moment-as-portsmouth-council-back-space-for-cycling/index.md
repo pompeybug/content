@@ -1,12 +1,12 @@
 ---
-
 title: Watershed moment as Portsmouth Council back space for cycling
 date: 2017-10-27
-tags:  
+tags:
   - city-council
-  - pcf 
-  - A City to Share
+  - a-city-to-share
+  - space-for-cycling
 coverImage: "./city-to-share-fb.png"
+section: campaigns
 ---
 
 UPDATE on [Portsmouth City Council motion to support City to Share](https://e-activist.com/page/15054/action/1?ea.tracking.id=CLIPS):  (from Cycling UK)

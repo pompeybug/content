@@ -3,6 +3,7 @@ title: Portsmouth Cycle Forum launches Cycle Friday
 id: 1206
 date: 2010-06-18 09:32:31
 ok: true
+section: rides-and-events
 ---
 
 Do you want to have a go at riding to work? Do you want to explore the best route? Do you want to make new cycling friends? Do you want to find out how to keep your wheels turning?

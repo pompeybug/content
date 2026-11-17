@@ -2,9 +2,11 @@
 title: "City Centre and Seafront Masterplans - PCF's Response"
 id: 3502
 tags:
-  - campaigns
-  - pcc
+  - city-council
+  - seafront
+  - consultations
 date: 2012-09-14
+section: campaigns
 ---
 
 Portsmouth City Council is currently developing masterplans for the redevelopment of the city centre and the seafront.  We have spoken about these at our meetings and many people have attended information events about these plans and hopefully responded to the consultation.

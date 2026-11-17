@@ -1,12 +1,13 @@
 ---
 title: January 2024 Committee Meeting
 date: 2024-01-10
-tags: 
-- committee meeting
-- infrastructure
-- planning 
-- werideportsmouth
+tags:
+  - committee
+  - infrastructure
+  - planning
+  - we-ride-portsmouth
 coverImage: ./slice.jpg
+section: meetings
 ---
 
 Happy New Year PCF-ers! Hope you all had a great break and have been enjoying the milder weather for all your cycling journeys.

@@ -1,13 +1,13 @@
 ---
-
 title: Proposed changes to bus and cycle lanes at Hilsea
 date: 2007-11-09
 tags:
- - pcc
- - bike-lane
- - infrastructure
- - "2007"
+  - city-council
+  - cycle-routes
+  - infrastructure
+  - hilsea
 ok: true
+section: campaigns
 ---
 
 Portsmouth City Council proposes to make the following Order under Sections 1 to 4 of the Road Traffic Regulation Act 1984. The effect of the Order will be as follows:

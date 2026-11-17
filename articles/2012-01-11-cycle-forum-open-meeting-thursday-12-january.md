@@ -2,10 +2,11 @@
 title: Cycle Forum Open Meeting Thursday 12 January
 id: 3020
 tags:
-  - meetings
+  - open-meeting
 date: 2012-01-11
 coverImage: /public/assets/The-Hub-Somerstown.jpg
 caption: Rendering of how The Hub will look
+section: meetings
 ---
 
 Our next open meeting is on Thursday 12 January when we will be welcoming Redouan Sadak from Portsmouth City Council to speak about Portsmouth’s Air Quality Management Areas and how the City Council plans to eliminate the harmful effects of air pollution.

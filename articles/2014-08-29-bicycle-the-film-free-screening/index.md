@@ -1,11 +1,10 @@
 ---
 title: Bicycle - The Film - FREE screening
 id: 4181
-tags:
-  - events
 date: 2014-08-29
 coverImage: ./Bicycle-film-poster-s.jpg
 coption: BICYCLE is a great new film about the history, culture and future of the bicycle.
+section: rides-and-events
 ---
 
 You can see it on the big screen in Guildhall Square on Tuesday 16 September at 6pm.

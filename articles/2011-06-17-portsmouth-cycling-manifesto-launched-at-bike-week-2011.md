@@ -1,12 +1,13 @@
 ---
-
 title: Portsmouth Cycling Manifesto Launched at Bike Week 2011
 id: 2492
 tags:
-  - campaigns
+  - bike-week
+  - elections
 date: 2011-06-17
 caption: MPs launch Bike Week 2011 at Westminster
 coverImage: /public/assets/MPbikeride.jpg
+section: campaigns
 ---
 
 

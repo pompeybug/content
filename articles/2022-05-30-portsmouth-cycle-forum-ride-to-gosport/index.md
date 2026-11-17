@@ -3,8 +3,8 @@ title: Portsmouth Cycle Forum ride to Gosport
 date: 2022-05-30
 coverImage: "./unnamed.jpg"
 tags:
- - rides
- - events
+  - rides
+section: rides-and-events
 ---
 
 Join us for a cycle over to Gosport, and the Powder Monkey brewery at Priddy's Hard. Meet 11am Victoria Park by the birds in the middle.

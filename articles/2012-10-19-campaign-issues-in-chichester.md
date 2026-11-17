@@ -1,11 +1,8 @@
 ---
-
 title: Campaign issues in Chichester
 id: 3528
-tags:
-  - campaigns
-  - pcf
 date: 2012-10-19
+section: campaigns
 ---
 
 ChiCycle, the Chichester cycle campaign group, have alerted us to the following issues affecting cyclists who use routes to and through Chichester:

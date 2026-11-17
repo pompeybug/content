@@ -1,16 +1,14 @@
 ---
-
 title: June committee meeting
 date: 2021-06-12
-tags:  
+tags:
   - city-council
   - cycle-routes
-  - meetings
-  - pcf 
   - farlington-marshes
   - tipner
   - committee
 coverImage: "./2021-06-12-08_36_10-Tipner-east.png"
+section: meetings
 ---
 
 This evening we welcomed ex-chair Jon Spencer back to the committee after a short hiatus. 

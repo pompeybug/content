@@ -1,12 +1,11 @@
 ---
-
 title: PCF Newsletter September 2009
 id: 351
 tags:
   - newsletter
-  - "2009"
 date: 2009-09-01
 ok: true
+section: news
 ---
 
 Contents

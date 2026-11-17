@@ -2,10 +2,10 @@
 title: "#WeRidePortsmouth - Bruges"
 date: 2024-11-03
 tags:
- - werideportsmouth
- - family
- - stories
+  - we-ride-portsmouth
+  - family-cycling
 coverImage: ./4.jpg
+section: stories
 ---
 
 Even though summer has passed and the skies have turned a bit grey, it’s a joy to share Eric and Vicky’s story about their summer cycling adventures in Belgium. Eric and Vicky are regular cyclists in our city and beyond, and their journey experience may be useful for planning your own cycling holiday!

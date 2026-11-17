@@ -1,9 +1,8 @@
 ---
 title: "John Holland: An obituary"
 date: 2019-01-27
-tags:  
-  - pcf 
 coverImage: "./20090920-101456-1004200953-672x372-1.jpg"
+section: stories
 ---
 
 With immense regret and sorrow we have to report the untimely death of John Holland. John was diagnosed with leukemia late last summer and appeared to be responding well to his treatment. Unfortunately secondary cancers were identified early in the new year and John moved to the Rowan’s Hospice, where he passed away on Thursday the 24th January.

@@ -1,11 +1,11 @@
 ---
-
 title: Ward issues
 id: 4097
 date: 2014-05-23
 tags:
   - infrastructure
-  - pcc
+  - city-council
+section: campaigns
 ---
 
 As well as our manifesto for cycling, we asked each candidate to respond to 2 specific issues related to cycling in their ward.  Now we need to follow this up with the candidate elected in each ward!<!--more-->

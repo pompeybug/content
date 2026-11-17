@@ -1,13 +1,11 @@
 ---
-
 title: Community Cargo Project
 date: 2022-03-08
-tags:  
-  - bikes
-  - latest-news 
+tags:
   - bike-hire
   - cargo-bikes
 coverImage: "./IMG_20220205_120128.jpg"
+section: guides
 ---
 
 # How to hire a cargo bike in Portsmouth

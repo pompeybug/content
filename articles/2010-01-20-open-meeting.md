@@ -2,14 +2,13 @@
 title: Open Meeting
 id: 501
 tags:
-  - campaigns
   - cycle-routes
-  - events
-  - meetings
+  - open-meeting
 date: 2010-01-20 19:31:45
 caption: Portsmouth Guildhall
 coverImage: /public/assets/Porstmouth_01.jpg
 ok: true
+section: meetings
 ---
 
 The cycle forum met on the 14th January.  The minutes from that meeting are not yet available but in the meantime here are two of the presentations from the meeting.

@@ -3,9 +3,11 @@ title: Cycle Forum AGM and Open Meeting 14 March
 id: 3601
 date: 2013-02-28 22:47:48
 tags:
-  - meetings
+  - agm
+  - open-meeting
 xfigure: bannerbox-myjourney.gif
 Caption: My Journey
+section: meetings
 ---
 
 Our next meeting is on Thursday 14 March at Eastney Community Centre in Bransbury Park, starting at 7.15pm. The first three quarters of an hour will be given over to our Annual General Meeting where we will elect the officers and committee for 2013/14.

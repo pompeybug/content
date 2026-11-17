@@ -1,11 +1,11 @@
 ---
 title: More cycle parking stands hit the streets
 tags:
-  - crime
+  - bike-theft
   - infrastructure
-  - "2009"
 date: 2009-05-12
 ok: true
+section: campaigns
 ---
 
 We are pleased to see the programme of increasing cycle parking is taking a step forward. 'Sheffield' type parking stands are being installed at various locations throughout the city.

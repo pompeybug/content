@@ -1,11 +1,11 @@
 ---
-
 title: Space for Cycling
 id: 3974
 date: 2014-04-21
 coverImage: /public/assets/original-150x150.jpg
 tags:
- - campaigns
+  - space-for-cycling
+section: campaigns
 ---
 
 CTC, the national cycling charity, has launched a new campaign called "Space for Cycling". You may remember Roger Geffen of CTC briefing us on it at the our Open Meeting in February.  Cycle-friendly streets are the life-blood of safe, pleasant and healthy communities. They are good for everybody's quality of life, whether or not they chose to cycle.

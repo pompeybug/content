@@ -3,8 +3,8 @@ title: Successful cycle conference - a showcase for Portsmouth
 id: 1051
 tags:
   - conference
-  - events
 date: 2010-04-21
+section: rides-and-events
 ---
 
 Over 80 delegates from all parts of the UK said that last Saturdays National CTC/Cycle Nation Conference here in Portsmouth was “a great success”.  Portsmouth Cycle Forum was chosen to host the Conference.  Chair John Holland said, "This has been a very successful weekend - a showcase for Portsmouth.”

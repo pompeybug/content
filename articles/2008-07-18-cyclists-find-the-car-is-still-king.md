@@ -1,11 +1,8 @@
 ---
-
 title: Cyclists find the car is still king
 date: 2008-07-18
-tags:
-    - thenews
-    - "2008"
 ok: true
+section: campaigns
 ---
 
 An in-depth feature plus favourable editorial comment on cycling in Portsmouth was published in The News, our local evening paper, on Saturday 18th July 2008.

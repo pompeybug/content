@@ -1,9 +1,11 @@
 ---
 title: Low Wall ‘Pinch-Point’ Removal
-tags: scrapbook 
+tags:
+  - scrapbook
 date: 2024-01-07
 location: Eastern Road
 coverImage: ./pinchpoint.png
+section: campaigns
 ---
 
 PCF approached the Coastal Defences team as work started on the latest part of the eastern defences to ask whether there might be scope to remove the low resting wall as part of their works in order to widen the shared-path which visibly narrows alongside the wall.

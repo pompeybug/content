@@ -1,13 +1,15 @@
 ---
 title: Quietways - Have Your Say!
 date: 2025-06-03
-tags: 
- - pcc
- - quieter-routes
- - quietways
- - open-meeting
+tags:
+  - city-council
+  - quieter-routes
+  - quietways
+  - open-meeting
 coverImage: "./quiet.png"
+section: meetings
 ---
+
 
 We know Portsmouth’s quietway cycle routes get mixed reviews—and now’s _your_ chance to help shape their future.
 

@@ -5,6 +5,7 @@ tags:
   - cyclenation
 date: 2012-04-18
 deadLinks: true
+section: news
 ---
 
 The Times have [an online map](http://www.thetimes.co.uk/tto/public/cyclesafety/contact/) where you can plot all the bad spots for cycling in your area.

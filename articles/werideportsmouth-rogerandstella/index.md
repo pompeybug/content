@@ -2,10 +2,10 @@
 title: "#WeRidePortsmouth - Roger & Stella"
 date: 2024-04-30
 tags:
- - WeRidePortsmouth
- - stories
+  - we-ride-portsmouth
 coverImage: ./roger-stella.jpg
 coverImageAlignment: top
+section: stories
 ---
 
 Roger and Stella, a son and mother duo, navigate Portsmouth using an adapted cargo tricycle. This cargo bike is integral to their daily routine, enabling them to travel, stay healthy, and maintain connections within their community.

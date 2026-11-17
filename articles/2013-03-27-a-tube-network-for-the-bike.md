@@ -1,11 +1,13 @@
 ---
-
 title: A Tube Network for the Bike?
 id: 3621
 
 date: 2013-03-27 09:28:29
 caption: Mayor's vision for London
 coverImage: /public/assets/Mayors-vision-for-London-1.jpg
+section: campaigns
+tags:
+  - tube-map
 ---
 
 Cycle routes named after tube lines, better cycling infrastructure and increases to cycle parking at mainline stations are some of the proposals in the Mayor of London's Cycling Vision which was released in March.

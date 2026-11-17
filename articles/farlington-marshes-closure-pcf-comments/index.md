@@ -1,16 +1,16 @@
 ---
 title: Farlington marshes closure - PCF comments
 date: 2021-05-19
-tags:  
-  - campaigns
+tags:
   - city-council
   - cycle-routes
-  - infrastructure 
+  - infrastructure
   - eastern-road
   - farlington-marshes
   - roadworks
 coverImage: ./image6.jpg
 caption: Farlington
+section: campaigns
 ---
 
 Highways England and the Environment Agency propose to close the shared use walking and cycling path across Farlington Marshes between Monday 7th June and Saturday 4th July. This  closure has been advertised on social media channels using the image on the right.

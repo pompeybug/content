@@ -1,14 +1,11 @@
 ---
-
 title: Discovering family cycling in portsmouth
 date: 2021-02-22
-tags:  
-  - bikes
-  - blog 
+tags:
   - cargo-bikes
-  - children
   - family-cycling
 coverImage: "./Discovering-family-cycling-photo3.jpg"
+section: stories
 ---
 
 By writing this article I wanted to share our family’s experience of discovering the bicycle as a mode of transport for our family with two young children who are two and five years old. I hope our story inspires other Portsmouth families to try it too!

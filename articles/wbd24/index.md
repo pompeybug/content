@@ -1,12 +1,11 @@
 ---
-
 title: World Bike Day 2024
 date: 2024-06-03
-tags:  
-  - fun
 coverImage: "./happy.png"
 coverImageAlignment: top
+section: news
 ---
+
 Today, June 3rd, is World Bicycle Day, a chance to celebrate this amazing & convenient two-wheeled wonder.
 
 Whether you're a seasoned cyclist or haven't dusted off your bike in years, there's no better day to get out and enjoy a ride.

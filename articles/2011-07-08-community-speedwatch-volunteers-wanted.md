@@ -1,10 +1,9 @@
 ---
 title: Community SpeedWatch Volunteers Wanted
 id: 2570
-tags:
-  - campaigns
-date: 2011-07-08 
+date: 2011-07-08
 coverImage: /public/assets/PoliceVolunteerSupport.jpg
+section: campaigns
 ---
 
 Hampshire Police are looking for keen and committed members of the community to help them set up a Community Speed Watch programme in the Fratton and Southsea areas.

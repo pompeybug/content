@@ -1,13 +1,9 @@
 ---
-
 title: 'Data Protection Act '
 id: 369
 date: 2007-10-17
-tags:
-    - policy
-    - pcf
-    - "2007"
 ok: true
+section: news
 ---
 
 Portsmouth Cycle Forum is a not for profit organisation.

@@ -2,9 +2,7 @@
 title: A New Site
 date: 2023-11-01
 coverImage: ./episode4.jpg
-tags:
- - pcf
- - website
+section: news
 ---
 
 Today we have launched the first phase of PCF's evolving digital services: a new website.  If you're reading this, you're looking at the new site.

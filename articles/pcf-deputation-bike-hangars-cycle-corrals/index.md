@@ -6,9 +6,9 @@ coverImage: "./hangar.jpeg"
 tags:
   - city-council
   - infrastructure
-  - bike hangars
+  - bike-hangars
   - deputation
-
+section: campaigns
 ---
 
 # Traffic & Transportation Cabinet Decision Meeting - 10th August 2023

@@ -1,9 +1,9 @@
 ---
-
 title: A short walk on Albert Road
 id: 3793
 
 date: 2013-08-23 14:52:59
+section: stories
 ---
 
 I took a walk along Albert Road earlier today - buying gift-wrap for my Mum's birthday as it happens.  As always, Albert Road was choked by illegally parked vehicles.  It always is and I am always shocked by it, but today I decided it was time to start making some noise about it.  In the short walk from the Haslemere Road junction to the King's Theatre area I spotted at least 15 different offending vehicles. It is obvious from the quantity of offending vehicles that motorists consider the chance of being caught and fined to be minute.

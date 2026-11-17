@@ -1,12 +1,12 @@
 ---
 title: Happy Easter!
 date: 2024-03-28
-tags: 
- - seafront
- - fun
- - chocolate
+tags:
+  - seafront
 coverImage: "./eggs.jpeg"
+section: news
 ---
+
 Looking for a fun and active way to spend Easter weekend in Portsmouth? Dust off your bike and hit the beautiful Portsmouth coastline for a scenic cycle! With the weather expected to turn a corner, it's the perfect time to explore the city on two wheels.
 
 Cruise along the vibrant Portsmouth seafront, taking in the fresh sea air and stopping off at one of the many cafes that dot the route. If you're feeling more adventurous, head towards Castle Road, with its charming cafes (check opening times for Easter weekend).  For a tranquil escape, Hilsea Lido offers a lovely cafe nestled beside the lake - perfect for a post-cycle refreshment.

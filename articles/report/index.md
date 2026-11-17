@@ -2,7 +2,8 @@
 title: Reports and requests
 date: 2020-11-20
 tags:
-  - bike hangars
+  - bike-hangars
+section: guides
 ---
 
 ## Report Near Misses!

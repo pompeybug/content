@@ -1,11 +1,10 @@
 ---
-
 title: Butser Cutting Cycle Route
 id: 3304
 tags:
-  - campaigns
   - cycle-routes
 date: 2012-05-14
+section: campaigns
 ---
 
 In the early 1990s the A3 road north from the A3(M) was replaced by a dual carriageway that, for the vast majority of cyclists, does not offer an acceptable safety level. The Highways Agency built cycle tracks alongside the A3, south from Queen Elizabeth Country Park to North Horndean and from Petersfield to Liphook.

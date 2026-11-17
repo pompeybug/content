@@ -1,11 +1,10 @@
 ---
-
 title: Cycle Forum AGM
 id: 872
 tags:
-  - meetings
-  - pcf
+  - agm
 date: 2010-02-08 11:49:17
+section: meetings
 ---
 
 We will be holding our annual general meeting  4th March where elections will be held for the officers and committee members for 2010/11\.  If you'd like to join the committee then please follow the link below.

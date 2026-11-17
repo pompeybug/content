@@ -1,8 +1,9 @@
 ---
-
 title: The New UMoMA Opens its Doors
 date: 2020-11-16
 coverImage: "./2020-landscape-1-2.png"
+section: news
+draft: true
 ---
 
 ## The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months.

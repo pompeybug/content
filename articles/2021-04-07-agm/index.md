@@ -1,8 +1,9 @@
 ---
-
 title: 2021 AGM - Advert
 date: 2021-04-07
-tags: agm
+tags:
+  - agm
+section: meetings
 ---
 
 **Our 2021 Annual General Meeting will take place at 7.00pm on Thursday 22nd April.**

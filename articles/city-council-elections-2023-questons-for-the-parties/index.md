@@ -1,15 +1,12 @@
 ---
-
 title: City Council Elections 2023 - Questions for The Parties
 date: 2023-04-20
-tags:  
+tags:
   - city-council
   - elections
-  - latest-news 
-  - local-elections
-  - PCC
-  - A City to Share
+  - a-city-to-share
 coverImage: "./votebike-banner1_1.png"
+section: campaigns
 ---
 
 Instead of holding a specific live hustings event, in 2023 we are sending each party the same list of questions to answer about cycling, road safety and active travel around our city.

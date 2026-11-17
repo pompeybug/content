@@ -1,13 +1,10 @@
 ---
-
 title: BBC One Inside Out
 id: 4216
 tags:
-  - campaigns
   - city-council
-  - pcf
-  - tv
 date: 2014-10-01 16:15:24
+section: campaigns
 ---
 
 Cycling in Portsmouth was the subject of a 10 minute film shown in BBC One's regional 'Inside Out' show last Monday. The piece focussed on cycle safety following the [recently published DfT accident statistics](http://www.pompeybug.co.uk/2014/09/portsmouths-cyclist-accident-rate-increases-by-9/ "Portsmouth’s Cyclist Accident Rate Increases by 9%") for Portsmouth which show us as being one of the least safe places to cycle in England.

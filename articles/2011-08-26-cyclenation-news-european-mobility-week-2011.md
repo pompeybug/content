@@ -1,10 +1,10 @@
 ---
-
 title: 'European mobility Week 2011'
 id: 2662
 tags:
   - cyclenation
 date: 2011-08-26
+section: news
 ---
 
 This event is something we should all consider taking part in and is a great opportunity to work in partnership wth your local authority and other local campaign groups that work to encourage a reduction in carbon emissions from transport. Some great ideas have come out of this over the years so try to think of an area or space in your town which could be used to showcase cycling and walking (and public transport) and draw some attention to the benefits of less traffic in an urban space. The ideas can range from taking a car parking space and sprucing it up to decorating a section of road or organsing a group ride. More ambitious plans like closing a road can take longer and need planning but if there isn't time this year why not plan for next year?

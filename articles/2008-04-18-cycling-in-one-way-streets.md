@@ -1,11 +1,10 @@
 ---
-
 title: Cycling in One-Way Streets
 date: 2008-04-18
 tags:
-    - contraflow
-    - "2008"
+  - contraflow
 ok: true
+section: guides
 ---
 
 Whenever there is a new proposal for a one-way street then local residents are, quite rightly, consulted: however, many proposals concern that are quiet and frequented by cyclists who are not necessarily residents.

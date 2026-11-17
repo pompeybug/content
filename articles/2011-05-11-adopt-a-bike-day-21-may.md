@@ -3,6 +3,7 @@ title: Adopt a Bike Day - 21 May
 id: 2345
 date: 2011-05-11
 ok: true
+section: rides-and-events
 ---
 
 The Community Cycle Centre's next "Adopt a Bike Day" is on Saturday 21 May from 10 to 12 at the Stacey Centre, Walsall Road, Copnor, PO3 6DN.

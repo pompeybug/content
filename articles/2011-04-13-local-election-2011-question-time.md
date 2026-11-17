@@ -1,11 +1,10 @@
 ---
-
 title: Local Election 2011 - Question Time
 id: 2225
 tags:
-  - events
-  - meetings
+  - elections
 date: 2011-04-13
+section: meetings
 ---
 
 Several organisations have worked together to arrange an Question Time  where you will be able to quiz some of the candidates in this year's local elections.  The meeting is on Thursday 21 April at 7pm in Room F at the Portsmouth Central Library where the focus will be on  greening Portsmouth, the local economy, the city's wellbeing and the city's sustainable transport policies.

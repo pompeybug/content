@@ -1,16 +1,16 @@
 ---
-
 title: New year - new schemes
 date: 2022-01-04
-tags:  
+tags:
   - city-council
-  - infrastructure 
+  - infrastructure
   - city-centre
   - consultations
   - eastern-road
   - goldsmith-avenue
   - lake-road
 coverImage: "./Eatern-Road-1.jpg"
+section: campaigns
 ---
 
 * Twelve months ago it was announced that the Eastern Road path would be widened.  

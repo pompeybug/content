@@ -2,10 +2,9 @@
 title: 'UPDATED: Open Meeting'
 id: 4177
 tags:
-  - events
-  - meetings
-  - pcf
+  - open-meeting
 date: 2014-08-25
+section: meetings
 ---
 
 Our next public meeting will take place on Thursday 11th September at 7pm. The venue is [Southsea Coffee Co](http://www.southseacoffee.co.uk "Southsea Coffee Co") at 63 Osborne Rd in Southsea ([map](https://www.google.co.uk/maps/place/Southsea+Coffee+Co/@50.7850641,-1.0875733,17z/data=!4m2!3m1!1s0x0:0xb819951aede6fc65 "Southsea Coffee Co Location")).

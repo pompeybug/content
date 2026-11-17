@@ -1,12 +1,11 @@
 ---
-
 title: Road Justice
 id: 3910
 tags:
-  - campaigns
   - opinion
-  - pcf
+  - safety
 date: 2014-01-10
+section: campaigns
 ---
 
 Today a driver received a 12 month ban from driving and a suspended prison sentence for killing a cyclist on a straight road in broad daylight. The court heard that the cyclist would have been clearly visible to the driver for some 11 seconds before the impact but for some reason the driver made no attempt to avoid the cyclist and struck from the rear with fatal consequences. The cyclist was the husband and father of a now devastated family.  Read the news story: [Suspended sentence and 12 month ban for driver who killed Suffolk cyclist](http://road.cc/content/news/107394-suspended-sentence-and-12-month-ban-driver-who-killed-suffolk-cyclist).

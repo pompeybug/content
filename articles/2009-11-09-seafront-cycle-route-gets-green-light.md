@@ -1,13 +1,13 @@
 ---
 title: Seafront Cycle Route Gets Green Light
 tags:
-  - campaigns
-  - pcc
+  - city-council
   - cycle-routes
-  - "2009"
+  - seafront
 date: 2009-11-09
 caption: Southsea Seafront Contraflow
 figure: me_Southsea_seafront_contraflow_cycleway_CTC.jpg
+section: campaigns
 ---
 
 Portsmouth City Council approved the first phase of the Southsea Seafront cycle route at the Cabinet Meeting on 9 November.

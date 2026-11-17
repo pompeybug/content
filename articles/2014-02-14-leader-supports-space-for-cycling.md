@@ -2,14 +2,12 @@
 title: Leader supports Space for Cycling
 id: 3926
 tags:
-  - campaigns
-  - pcc
-  - events
-  - meetings
-  - pcf
+  - city-council
+  - space-for-cycling
 date: 2014-02-14 22:11:08
 caption: Eric Booth talks about Freedom to Ride
 figure: IMG_1971edit-300x225.jpg
+section: campaigns
 ---
 
 

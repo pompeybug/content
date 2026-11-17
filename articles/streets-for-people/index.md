@@ -1,19 +1,15 @@
 ---
-
 title: Streets for people
 date: 2019-04-01
-tags:  
-  - campaigns
+tags:
   - city-council
-  - environment 
-  - air-quality
   - environment
+  - air-quality
   - friends-of-the-earth
-  - pollution
-  - portsmouth
   - streets-for-people
-  - A City to Share
+  - a-city-to-share
 coverImage: "./a2047-1038x576-1.png"
+section: campaigns
 ---
 
 Our friends at Portsmouth Friends of the Earth have just published [this report](https://portsmouthfoe.org/2019/03/25/streets-for-people-report/) that sets out local people’s vision for Portsmouth streets as places that are people-friendly and not dominated by cars.

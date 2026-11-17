@@ -4,6 +4,7 @@ id: 2898
 tags:
   - rides
 date: 2011-12-06
+section: rides-and-events
 ---
 
 Gill and Pam are organising twice-monthly bike rides on Wednesday mornings starting on 7 December.

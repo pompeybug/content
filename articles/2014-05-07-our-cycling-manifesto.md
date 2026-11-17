@@ -2,6 +2,9 @@
 title: Our Cycling Manifesto
 id: 3988
 date: 2014-05-07
+section: campaigns
+tags:
+  - elections
 ---
 
 With local elections approaching we dusted off our Cycling Manifesto we sent out to councillors at the last elections in 2012.  Last time we only sent it to existing councillors with limited response, but this time we’ve updated it and sent it out to every candidate in every council ward – that’s 77 in all!  We also gave them a bit more time to respond and we’ll update you on this nearer the election.

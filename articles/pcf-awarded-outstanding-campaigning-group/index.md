@@ -1,14 +1,10 @@
 ---
-
 title: PCF awarded ‘Outstanding Campaigning Group’
 date: 2018-10-13
-tags:  
-  - campaigns
-  - pcf 
-  - awards
-  - pcf
-  - A City to Share
+tags:
+  - a-city-to-share
 coverImage: "./IMG_1844-672x372-1.jpg"
+section: news
 ---
 
 We are really delighted to announce that Portsmouth Cycle Forum’s hard work has been recognised with an award from the national cycling charity Cycling UK. We have been awarded the title of ‘Outstanding Campaigning Group’ in the charity’s 2018 Volunteer of the Year Awards.

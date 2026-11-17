@@ -1,9 +1,11 @@
 ---
-
 title: Metropolis Ride this Sunday
 id: 2139
 
 date: 2011-03-23
+section: rides-and-events
+tags:
+  - rides
 ---
 
 This coming Sunday 27th March is the fabulous Metropolis Ride

@@ -1,10 +1,10 @@
 ---
-
 title: Southsea Seafront Cycle Route On-Hold
 id: 1341
 tags:
-  - campaigns
+  - seafront
 date: 2010-07-09
+section: campaigns
 ---
 
 We have learned today that Phase 2 of the Southsea Seafront Cycle route has been placed "on-hold" as a result of spending cuts within Portsmouth City Council.

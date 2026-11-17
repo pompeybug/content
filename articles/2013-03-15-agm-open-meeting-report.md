@@ -1,12 +1,11 @@
 ---
-
 title: 'AGM & Open Meeting Report (updated)'
 tags:
   - agm
-  - meeting
-  - pcf
+  - open-meeting
 id: 3616
 date: 2013-03-15
+section: meetings
 ---
 
 Portsmouth Cycle Forum held its Annual General Meeting last night at Eastney Community Centre in Bransbury Park. The main business of the AGM was to report on the actions and accounts of the cycle forum for the year just gone and to appoint an executive committee charged with directing the actions of the forum for the coming year.

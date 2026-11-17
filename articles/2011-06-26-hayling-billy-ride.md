@@ -2,9 +2,10 @@
 title: Hayling Billy Ride!
 id: 2533
 tags:
-  - events
   - rides
+  - hayling
 date: 2011-06-26
+section: rides-and-events
 ---
 
 The cycle train standing at platform 9 3/4 at Canoe Lake, Southsea will be the 10 o'clock Billy Special service to Hayling Island, calling at Eastney Beach Huts, Eastney Swimming Pool, Ferry Road Junction, Eastney Point, Hayling Ferry Boat Inn, Sinah Common, Hayling North and Hayling Central.  A service of light refreshments may be available providing you have remembered to bring them.  Please note this cycle train may float en-route - discounted ferry tickets are available - please see the train manager.  Bicycles are welcome on this service - the more the merrier!

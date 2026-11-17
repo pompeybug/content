@@ -1,12 +1,10 @@
 ---
-
 title: John Holland Memorial Day
 date: 2019-05-13
-tags:  
-  - events 
+tags:
   - rides
-  - memorial
 coverImage: "./for-memorial-day-poster-672x372-1.jpg"
+section: rides-and-events
 ---
 
 John Holland Memorial Day: Saturday 29th June 2019

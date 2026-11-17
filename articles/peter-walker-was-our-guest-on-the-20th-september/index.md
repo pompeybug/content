@@ -1,14 +1,11 @@
 ---
-
 title: Peter Walker was out guest on 20th Sept
 date: 2018-09-20
-tags:  
-  - events
-  - meetings 
-  - books
+tags:
   - open-meeting
   - peter-walker
 coverImage: "./https-_cdn.evbuc_.com_images_48019320_67378900689_1_original.jpg"
+section: meetings
 ---
 
 We’re delighted to announce that our guest speaker at our Open Meeting on the 20th September was Peter Walker. His book [Bike Nation: How Cycling Can Save the World](https://pompeybug.us5.list-manage.com/track/click?u=2ed916007f1c294faa614a50f&id=46dba720c3&e=140d2bad5a) takes us on a journey around the world, exploring the varying attitudes to cycling on our highways.

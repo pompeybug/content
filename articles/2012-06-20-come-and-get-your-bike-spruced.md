@@ -1,9 +1,8 @@
 ---
 title: Come and get your bike spruced!
 id: 3325
-tags:
-  - events
 date: 2012-06-20
+section: rides-and-events
 ---
 
 Come down to the Community Cycle Center at the Stacey tomorrow at 3.30.

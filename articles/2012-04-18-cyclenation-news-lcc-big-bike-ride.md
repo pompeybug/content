@@ -3,7 +3,9 @@ title: LCC big bike ride
 id: 3241
 tags:
   - cyclenation
+  - rides
 date: 2012-04-18
+section: news
 ---
 
 [London Cycle campaign](http://lcc.org.uk/) are urging everyone to join them for **the Big Bike Ride** on Saturday 28 April 2012.  A fun event with a serious message, calling on  London's mayoral candidates to make the capital's streets as safe and inviting for cycling as they are in Holland.

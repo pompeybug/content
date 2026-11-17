@@ -2,11 +2,11 @@
 title: Support for two-way cycling in Charlotte Street
 id: 3065
 tags:
-  - campaigns
-  - pcc
+  - city-council
   - cycle-routes
-  - Infrastructure
+  - infrastructure
 date: 2012-01-20
+section: campaigns
 ---
 
 Cabinet member for Traffic and Transportation, Cllr Jason Fazackarley, gave his support of two-way cycling in Charlotte Street, Landport at his decision meeting on 19 January.

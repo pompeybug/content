@@ -2,9 +2,10 @@
 title: Manifesto Responses
 id: 3993
 tags:
-  - campaigns
-  - pcc
+  - city-council
+  - elections
 date: 2014-05-16
+section: campaigns
 ---
 
 The responses to our manifesto for cycling from election candidates are coming in thick and fast. Detailed comments from candidates (where provided) are linked from the table - some are very interesting.  Comments received from senior Councillors (where they are not themselves up for election) are included below the table.

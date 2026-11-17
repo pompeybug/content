@@ -2,10 +2,10 @@
 title: Northern Quarter Cycle Routes
 date: 2009-01-04
 tags:
-    - "2009"
-    - pcc
-    - northern-quarter
+  - city-council
+  - city-centre
 ok: true
+section: campaigns
 ---
 
 The Northern Quarter is the name given to the proposed retail development to the north of Portsmouth City Centre which includes the site of the former Tricorn Centre.

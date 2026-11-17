@@ -2,14 +2,15 @@
 title: Seafront Cycle Route FAQ
 id: 1078
 tags:
-  - campaigns
-  - pcc
+  - city-council
   - cycle-routes
   - infrastructure
+  - seafront
 date: 2010-04-22
 caption: Alfie Perry-Ward on the Seafront Cycle Route
 figure: /assets/SFCR_Alfie-150x150.jpg
 todo:
+section: campaigns
 ---
 
 In response to the lively public debate about the virtues of the new seafront cycle route we have produced [a set of frequently asked questions and answers](/infrastructure/seafront-cycle-route/) to address some of the most common concerns.

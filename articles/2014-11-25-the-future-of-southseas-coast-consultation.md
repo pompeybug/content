@@ -2,14 +2,15 @@
 title: "The future of Southsea's coast - consultation"
 id: 4261
 tags:
-  - campaigns
-  - pcc
+  - city-council
   - cycle-routes
   - environment
-  - A City to Share
+  - a-city-to-share
+  - consultations
 date: 2014-11-25 19:55:01
 caption: Storm tide in Southsea
 coverImage: /public/assets/ESCP-Storm-photo.jpg
+section: campaigns
 ---
 
 **A CITY TO SHARE** includes accessibility for all to our coast and heritage. The proposed new flood defences for Southsea seafront present a once-in-a-lifetime opportunity to complete a missing section of the seafront cycle.

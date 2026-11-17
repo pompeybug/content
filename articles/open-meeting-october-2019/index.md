@@ -1,18 +1,13 @@
 ---
-
 title: Open meeting – October 2019
 date: 2019-10-27
-tags:  
-  - events
-  - meetings 
-  - bike-recycling
-  - motiv8
-  - october-open-meeting
-  - parking
-  - travel-plan
+tags:
+  - open-meeting
+  - cycle-parking
   - university
   - committee
 coverImage: "./12241757_10154340721137067_1229218842759030832_n.jpg"
+section: meetings
 ---
 
 **Bicycle Recycling**

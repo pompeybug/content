@@ -2,12 +2,12 @@
 title: Meeting with the Leader of PCC
 id: 4138
 tags:
-  - campaigns
-  - pcc
+  - city-council
 date: 2014-06-27 09:20:33
 coverImage: ./3296873023-300x211.jpg
-caption:  Cllr Donna Jones
+caption: Cllr Donna Jones
 supercheck: true;
+section: campaigns
 ---
 
 On Wednesday 25th June members of the Portsmouth Cycle Forum Committee met with the new leader of Portsmouth City Council, Cllr Donna Jones, and her cabinet member for Traffic &amp; Transportation Cllr Ken Ellcome.

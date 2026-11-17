@@ -3,7 +3,8 @@ title: Santa Ride - Sunday 18th December
 id: 2891
 tags:
   - rides
-date: 2011-12-05 
+date: 2011-12-05
+section: rides-and-events
 ---
 
 Our annual Christmas bike ride starts at the Stacey Community Centre where we will be joined by Santa for a short trip around Milton Common.

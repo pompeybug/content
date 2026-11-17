@@ -2,6 +2,7 @@
 title: Skate park opening weekend
 id: 2133
 date: 2011-03-23
+section: rides-and-events
 ---
 
 This coming weekend the skate park is re-born.

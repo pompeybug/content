@@ -1,14 +1,12 @@
 ---
-
 title: Bike Park Life
 date: 2021-11-18
-tags:  
-  - bikes
-  - blog
+tags:
   - city-council
-  - infrastructure 
-  - bike hangars
+  - infrastructure
+  - bike-hangars
 coverImage: "./IMG_20211106_150629142-small.jpg"
+section: campaigns
 ---
 
 As we have often stated in support of creating better cycling facilities in the city, Portsmouth is a flat, compact and temperate city that lends itself superbly well to cycling for all types of journeys.  If only there was suitable infrastructure....

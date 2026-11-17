@@ -5,6 +5,7 @@ tags:
   - cyclenation
 date: 2012-04-29
 brokenLinks: true;
+section: news
 ---
 
 You love cycling, so share the fun - get a 'saddle-shy friend' on a bike this summer.

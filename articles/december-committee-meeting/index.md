@@ -1,16 +1,12 @@
 ---
-
 title: December committee meeting
 date: 2020-12-11
-tags:  
-  - meetings
-  - pcf 
-  - facebook
-  - ltp4
+tags:
+  - local-transport-plan
   - tcf
-  - website
   - committee
 coverImage: "./PXL_20201211_200829478-scaled.jpg"
+section: meetings
 ---
 
 Committee Meeting Summary - December 2020

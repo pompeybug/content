@@ -1,13 +1,11 @@
 ---
-
 title: "Urgent: Support safer cycling in Portsmouth"
 date: 2017-10-15
-tags:  
-  - campaigns
+tags:
   - city-council
-  - pcf 
-  - A City to Share
+  - a-city-to-share
 coverImage: "./city-to-share-fb.png"
+section: campaigns
 ---
 
 [Portsmouth City Council motion to support City to Share](https://e-activist.com/page/15054/action/1?ea.tracking.id=CLIPS): Tuesday 17 October.

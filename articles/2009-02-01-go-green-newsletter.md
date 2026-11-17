@@ -1,13 +1,12 @@
 ---
-
 title: Go Green Newsletter
 date: 2009-02-01
 tags:
-    - pcc
-    - environment
-    - pool-cars
-    - "2009"
+  - city-council
+  - environment
+  - newsletter
 ok: true
+section: news
 ---
 
 **GO Green** is the monthly newsletter issued by Portsmouth City Council's Sustainable Travel team. The February edition of Go Green features:

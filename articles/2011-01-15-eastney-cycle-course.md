@@ -1,8 +1,8 @@
 ---
-
 title: Eastney Cycle Course
 id: 1726
 date: 2011-01-15
+section: news
 ---
 
 A free 6-week cycle course starts at Eastney Community Centre on Sunday 16 January at 11am. It is for 5-7 year olds with their families including grandparents.

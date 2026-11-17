@@ -2,8 +2,9 @@
 title: Cycle Forum Open Meeting - 10 November
 id: 2792
 tags:
-  - meetings
+  - open-meeting
 date: 2011-11-08
+section: meetings
 ---
 
 At the Cycle Forum's Open Meeting on 10 November we will be reporting on the CTC/Cyclenation conference which was held in Sheffield in October and where the theme was Cycle Campaigning and Localism - Threats and Opportunities.

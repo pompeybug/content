@@ -1,14 +1,14 @@
 ---
-
 title: 'Vote for a Logo!'
 id: 860
 tags:
-  - pcf
+  - logo
 date: 2010-02-05 12:00:17
 caption: Logo Montage
 figure: /assets/logomontage.png
-todo: 
+todo:
   - "find the original 'logos' pages"
+section: news
 ---
 
 Entries for the PCF logo competition have now closed  and voting has opened!

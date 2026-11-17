@@ -1,11 +1,11 @@
 ---
-
 title: Dutch Style in Portsmouth? - Open Meeting 14 November
 id: 3891
 tags:
-  - events
-  - meetings
+  - open-meeting
+  - dutch-style
 date: 2013-11-04
+section: meetings
 ---
 
 The next open meeting of Portsmouth Cycle Forum will take place at 7pm on Thursday 14 November 2013 upstairs at the Student’s Union (room SEM 5) on Cambridge Road - click [here](http://goo.gl/ZlVwOI "University of Portsmouth Student Union") for a map.

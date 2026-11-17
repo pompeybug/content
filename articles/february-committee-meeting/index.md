@@ -1,16 +1,14 @@
 ---
-
 title: February committee meeting
 date: 2021-02-13
-tags:  
-  - meetings
-  - pcf 
+tags:
   - agm
   - cycle-counts
   - e-scooters
   - friends-of-the-earth
   - committee
 coverImage: "./2021-02-12-19_01_17-Window.png"
+section: meetings
 ---
 
 Are you zoomed out yet? Think of us, on a Friday night still going at 8pm for our monthly committee meeting! Still - it’s always a good opportunity to share ideas with beers. 

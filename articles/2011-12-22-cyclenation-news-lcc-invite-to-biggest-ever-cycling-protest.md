@@ -4,6 +4,7 @@ id: 2943
 tags:
   - cyclenation
 date: 2011-12-22
+section: news
 ---
 
 An invitation to the 'biggest ever cycling protest' 

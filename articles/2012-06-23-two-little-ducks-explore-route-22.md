@@ -2,9 +2,9 @@
 title: Two little ducks... explore route 22
 id: 3390
 tags:
-  - events
   - rides
 date: 2012-06-23
+section: rides-and-events
 ---
 
 Tomorrow we're off to explore the Sustrans route 22 along the western side of Portsmouth.

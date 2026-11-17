@@ -4,6 +4,7 @@ id: 3077
 tags:
   - cyclenation
 date: 2012-02-06
+section: news
 ---
 
 The Cyclenation Chair has had a reply declining his invitation to meet and talk about cycling with Justine Greening (the Secretary of State for Transport).

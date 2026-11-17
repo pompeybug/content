@@ -1,8 +1,9 @@
 ---
-
 title: 2021 AGM
 date: 2021-04-22
-tags: agm
+tags:
+  - agm
+section: meetings
 ---
 
 Below you will find the supporting documents for the 2021 AGM which took place on the 22nd April 2021

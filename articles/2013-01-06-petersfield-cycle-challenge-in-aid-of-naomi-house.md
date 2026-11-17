@@ -1,10 +1,10 @@
 ---
-
 title: Petersfield Cycle Challenge in aid of Naomi House
 id: 3567
 tags:
   - rides
 date: 2013-01-06
+section: rides-and-events
 ---
 
 Naomi House, the charity providing support to children and young adults with life-limiting conditions and their families from across the Central South, are organising a cycle ride on Sunday 3 March.

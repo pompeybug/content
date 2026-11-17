@@ -1,13 +1,12 @@
 ---
-
 title: Cycle Forum AGM Thursday 10 March
 id: 2064
 tags:
-  - events
-  - meetings
+  - agm
 date: 2011-03-07
 caption: Parents vs children relay race at Eastney Family Bike Club
 coverImage: /public/assets/Eastney-bike-course-week-2-23Jan11-04-2-400x183.jpg
+section: meetings
 ---
 
 We will be holding our Annual General Meeting  on Thursday 10th March at 7.00 pm in Meeting Room 1, Guildhall. Elections will be held for the Chairman, Vice-Chair, Secretary, Treasurer and Membership Secretary plus 5 committee members.

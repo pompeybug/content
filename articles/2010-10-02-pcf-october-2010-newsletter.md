@@ -5,6 +5,7 @@ tags:
   - newsletter
 date: 2010-10-02 11:53:15
 ok: true
+section: news
 ---
 
 The [October newsletter](/public/assets/docs/PCF-Newsletter-October-2010.pdf) from Portsmouth Cycle Forum is now avaialable.

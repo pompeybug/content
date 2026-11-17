@@ -4,6 +4,7 @@ id: 2599
 tags:
   - rides
 date: 2011-07-27
+section: rides-and-events
 ---
 
 Join Portsmouth Cycle Forum for a leisurely  ride around Portsea Island on Sunday morning 31 July.  We'll be leaving the Guildhall Square at 10.30am and we'll follow the Round the Island route described in the Portsmouth City Council leaflet.

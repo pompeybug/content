@@ -4,6 +4,7 @@ id: 1092
 date: 2010-05-10 12:18:16
 todo:
   - Need to update DfT links to point to cached copies in web.archive.org
+section: news
 ---
 
 The May update from Cycling England includes an [on-carriageway cycle parking project in Brighton and Hove](http://www.dft.gov.uk/cyclingengland/category/scheme-of-the-month/ "On carriageway parking in Brighton and Hove"). Could this work in Portsmouth?

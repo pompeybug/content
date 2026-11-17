@@ -1,14 +1,12 @@
 ---
-
 title: July committee meeting
 date: 2021-07-25
-tags:  
-  - meetings
-  - pcf 
+tags:
   - barriers
   - farlington-marshes
   - committee
 coverImage: "./Barriers-stuck-brake-levers-2.jpg"
+section: meetings
 ---
 
 This month we discussed the funding bid PCC put to the Department for Transport’s Capability Fund, to help them develop better cycling infrastructure and support for the future. All very high level, the proof will be in the pudding. 

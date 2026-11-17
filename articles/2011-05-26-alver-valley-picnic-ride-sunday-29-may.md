@@ -4,6 +4,7 @@ id: 2364
 tags:
   - rides
 date: 2011-05-26
+section: rides-and-events
 ---
 
 Join us on Bank Holiday Sunday for a family ride to the  Alver Valley Country Park in Gosport.  Much of the  park was originally a landfill site but it is now being transformed into a woodland area by Groundwork Solent. Part of the existing wooded river valley is designated SSSI and with extensive reed beds, is rich in birds, insects and mammals.

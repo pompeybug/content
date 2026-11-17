@@ -2,9 +2,10 @@
 title: Bike Week 2011 - Fishy Friday Bike Ride
 id: 2528
 tags:
-  - events
   - rides
+  - bike-week
 date: 2011-06-24
+section: rides-and-events
 ---
 
 Portsmouth Cycle Forum will lead this early evening bike ride to Portchester Castle and stopping for fish and chips on the way on Friday 24 Jun.  Other food options may be available.   The ride will leave the Guildhall Square at 5.30pm and will last approximately 2 hours.

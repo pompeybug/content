@@ -3,11 +3,9 @@ title: A City to Share - follow up with Donna Jones
 id: 4277
 date: 2014-12-03 21:58:25
 tags:
-  - Campaigns
-  - Meetings
-  - A City to Share
+  - a-city-to-share
 figure: pcf-city-strategy-portrait-hr-thumb.png
-
+section: campaigns
 ---
 
 On Tuesday 2nd December Portsmouth Cycle Forum also met with the leader of PCC, Cllr Donna Jones, and the Cabinet Member for Traffic &amp; Transportation Cllr Ken Ellcome to follow up on the launch of our cycle strategy: [A City to Share](http://acitytoshare.org "A City to Share").

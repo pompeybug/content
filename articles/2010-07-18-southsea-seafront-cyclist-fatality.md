@@ -1,11 +1,14 @@
 ---
-
 title: Southsea Seafront Cyclist Fatality
 id: 1381
 
 date: 2010-07-18 10:49:28
 caption: Clarence Pier, Clarence Esplanade, Southsea
 coverImage: /public/assets/Clarence-Pier.jpg
+section: campaigns
+tags:
+  - seafront
+  - safety
 ---
 
 Portsmouth Cycle Forum is very sad to learn of the death in a road accident of a woman cyclist at Clarence Esplanade on Saturday 17 July. Our thoughts lie with her family and friends to whom send our deepest condolences.

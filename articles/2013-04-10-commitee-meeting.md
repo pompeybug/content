@@ -1,12 +1,10 @@
 ---
-
 title: Committee Meeting
 tags:
   - committee
-  - meetings
-  - pcf
 id: 3638
 date: 2013-04-10
+section: meetings
 ---
 
 The next meeting of the Portsmouth Cycle Forum Committee will be this Friday (12th April 2013).

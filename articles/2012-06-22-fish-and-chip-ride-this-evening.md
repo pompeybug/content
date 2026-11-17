@@ -2,11 +2,11 @@
 title: Fish and Chip Ride - this evening!
 id: 3372
 tags:
-  - events
   - rides
 date: 2012-06-22
 coverImage: /public/assets/fish-and-chip-shop-sign1.jpg
 caption: A fish and chip shop sign.
+section: rides-and-events
 ---
 
 

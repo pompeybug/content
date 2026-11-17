@@ -1,9 +1,8 @@
 ---
 title: Big Bike fix at the Stacey
 id: 3355
-tags:
-  - events
 date: 2012-06-13
+section: rides-and-events
 ---
 
 Get your bike ready for summer....

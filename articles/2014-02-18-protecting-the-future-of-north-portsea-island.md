@@ -1,11 +1,10 @@
 ---
-
 title: Protecting the Future of North Portsea Island
 id: 3933
 tags:
   - environment
-  - events
 date: 2014-02-18 11:31:53
+section: rides-and-events
 ---
 
 caption: North Portsea Island scheme area

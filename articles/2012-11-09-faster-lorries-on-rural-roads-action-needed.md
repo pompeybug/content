@@ -1,12 +1,10 @@
 ---
-
 title: 'Faster Lorries on Rural Roads - Action Needed!'
 id: 3549
 tags:
-  - campaigns
   - opinion
-  - pcf
 date: 2012-11-09
+section: campaigns
 ---
 
 The DfT has opened a consultation on increasing the speed limit for HGV's on single carriageway roads. This seems to be because many lorries ignore the current limit of 40mph anyway. This apparently gives the firms that do ignore the limit a competitive advantage as they are able to deliver goods more quickly.

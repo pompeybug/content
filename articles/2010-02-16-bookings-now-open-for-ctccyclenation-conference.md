@@ -1,9 +1,12 @@
 ---
-
 title: Bookings now open for CTC/Cyclenation Conference
 id: 966
 
 date: 2010-02-16 10:04:15
+section: news
+tags:
+  - cyclenation
+  - conference
 ---
 
 figure: /assets/ctc-logo.png

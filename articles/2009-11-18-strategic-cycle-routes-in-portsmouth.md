@@ -2,10 +2,9 @@
 title: Strategic Cycle Routes in Portsmouth
 id: 361
 tags:
-  - campaigns
   - cycle-routes
-  - "2009"
 date: 2009-11-18
+section: campaigns
 ---
 
 In conjunction with the CTC, Portsmouth Cycle Forum has produced a detailed assessment of the current strategic cycle routes in and out of Portsmouth.

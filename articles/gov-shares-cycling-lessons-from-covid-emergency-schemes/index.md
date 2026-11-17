@@ -1,13 +1,12 @@
 ---
-
 title: Gov't shares cycling lessons from COVID emergency schemes
 date: 2021-07-31
-tags:  
-  - dft
-  - infrastructure 
-  - gear-change
+tags:
   - government
+  - infrastructure
+  - gear-change
 coverImage: "./2021-08-02-21_22_06-Gear-Change_-One-Year-On-gear-change-one-year-on.pdf-—-Mozilla-Firefox.png"
+section: campaigns
 ---
 
 _"Gear Change: One Year On"_ is a review document published by the Department for Transport on 30 July, setting out the successes of the Emergency Active Travel Fund, and government’s 2020 policy “Gear Change” which included guidance for massively improved cycling infrastructure.

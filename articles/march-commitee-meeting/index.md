@@ -1,16 +1,14 @@
 ---
-
 title: March commitee meeting
 date: 2021-03-17
-tags:  
-  - meetings
-  - pcf 
+tags:
   - agm
   - caz
   - ltn-1-20
   - shipwrights-way
   - committee
 coverImage: "./P1020677.jpg"
+section: meetings
 ---
 
 Talk of the incoming clean air zone led most of the discussion at this month’s committee meeting. Whilst we are very supportive of the idea of a chargeable zone for polluting vehicles, members are concerned that the new zone will push motor traffic onto surrounding roads which are already congested and scary to cycle on. Fratton Road is one of these, so is Elm Grove. We will be asking PCC to ensure before and after monitoring is undertaken to track changes in traffic flow and, crucially, also count the numbers of people walking and cycling, to see if the scheme has put people off. 

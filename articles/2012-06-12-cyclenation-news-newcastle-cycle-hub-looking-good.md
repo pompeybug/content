@@ -1,10 +1,10 @@
 ---
-
 title: Newcastle cycle hub - Looking Good
 id: 3351
 tags:
   - cyclenation
 date: 2012-06-12
+section: news
 ---
 
 Check out the [cycle hub in Newcastle.](http://www.thecyclehub.org/)

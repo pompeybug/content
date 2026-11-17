@@ -2,11 +2,12 @@
 title: 'Take action to save the Hayling Ferry!'
 id: 1771
 tags:
-  - campaigns
-  - pcc
+  - city-council
   - cycle-routes
+  - hayling
 date: 2011-02-04
 ok: true
+section: campaigns
 ---
 
 The proposed city council budget for 2011/12 onwards proposes that the subsidy currently offered to the Hayling Ferry be cancelled.  This will more than likely spell the end for the ferry service which provides a great route into and out of the city for cyclists and pedestrians.  The budget will go to the vote at council on **tuesday 8th February**.  If you would like the service to be saved then **please phone, email or write to your ward councillors** to ask them to oppose the motion to scrap the subsidy.

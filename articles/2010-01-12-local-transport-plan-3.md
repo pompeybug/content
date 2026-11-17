@@ -2,10 +2,11 @@
 title: Local Transport Plan 3
 id: 461
 tags:
-  - pcc
+  - city-council
 date: 2010-01-12 18:35:46
 caption: Seafront Cycling
 figure: P9202913.jpg
+section: campaigns
 ---
 
 Local transport plans are an important part of transport planning in England. Strategic transport authorities (in our case Portsmouth City Council) are expected to prepare them as forward-looking plans and present them to the Department for Transport (DfT).

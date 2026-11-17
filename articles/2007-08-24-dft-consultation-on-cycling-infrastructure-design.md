@@ -2,10 +2,11 @@
 title: DfT consultation on cycling infrastructure design
 id: 366
 tags:
- - "2007"
+  - consultations
 date: 2007-08-24
 author: Paul Dawson
 ok: true
+section: campaigns
 ---
 
 #Summary

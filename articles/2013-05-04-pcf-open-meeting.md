@@ -1,13 +1,12 @@
 ---
-
 title: PCF Open Meeting
 tags:
-  - meetings
   - open-meeting
 id: 3665
 date: 2013-05-04
 caption: Boris and Arnie go biking
 coverImage: /public/assets/Boris-und-Arnie-zimbio.com_1.jpg
+section: meetings
 ---
 
 

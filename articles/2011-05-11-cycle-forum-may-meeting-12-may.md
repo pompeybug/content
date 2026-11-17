@@ -2,10 +2,9 @@
 title: Cycle Forum Meeting 12 May
 id: 2335
 tags:
-  - events
-  - meetings
   - open-meeting
 date: 2011-05-11
+section: meetings
 ---
 
 The next meeting of Portsmouth Cycle Forum is on Thursday 12 May at 7pm in Portsmouth Guildhall.

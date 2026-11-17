@@ -1,7 +1,10 @@
 ---
 title: Wednesday Morning Bike Ride 16 May
 id: 3299
-date: 2012-05-14 
+date: 2012-05-14
+section: rides-and-events
+tags:
+  - rides
 ---
 
 Bike rides are the 1st and 3rd Wednesdays each month.

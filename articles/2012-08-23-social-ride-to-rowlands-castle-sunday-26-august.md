@@ -1,5 +1,4 @@
 ---
-
 title: Social ride to Rowlands Castle - Sunday 26 August
 id: 3481
 tags:
@@ -7,6 +6,7 @@ tags:
 date: 2012-08-23
 caption: The Green at Rowlands Castle
 coverImage: /public/assets/RowlandsCastleGreen.jpg
+section: rides-and-events
 ---
 
 We're off for a ride to Rowlands Castle on Sunday morning.

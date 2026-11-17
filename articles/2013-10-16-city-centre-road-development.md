@@ -2,10 +2,11 @@
 title: City Centre Road Development
 id: 3862
 tags:
-  - pcc
+  - city-council
   - cycle-routes
   - environment
 date: 2013-10-16
+section: campaigns
 ---
 
 ![View of Hope Street - Flathouse Road](/public/assets/View-of-Hope-Street-Flathouse-Road.jpg)

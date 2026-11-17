@@ -4,6 +4,7 @@ id: 1239
 tags:
   - rides
 date: 2010-06-21
+section: rides-and-events
 ---
 
 Portsmouth Cycle Forum presents a Family Bike Ride to Gosport & Stokes Bay, on Saturday 26 June 09.30 – 13.00.

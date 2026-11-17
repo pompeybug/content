@@ -1,11 +1,10 @@
 ---
-
 title: "Lord Mayor's Bike Ride - Postponed"
 id: 3834
 tags:
-  - events
   - rides
 date: 2013-09-18 22:55:59
+section: rides-and-events
 ---
 
 The Lord Mayor's Bike Ride, scheduled for Saturday 21 September, has been postponed.

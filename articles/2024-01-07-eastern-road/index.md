@@ -1,12 +1,12 @@
 ---
 title: Eastern Road Obstruction Removal
 tags:
- - scrapbook
- - infrastructure
- - eastern-road
- - share4d-path
+  - scrapbook
+  - infrastructure
+  - eastern-road
 date: 2024-01-07
 coverImage: ./eastern.png
+section: campaigns
 ---
 
 The traffic light column and control equipment that have been situated in the middle of the upgraded shared path at the Airport Service Road Junction have now been moved following the near completion of the coastal works, giving more space and visibility for all users when the new path opens later in 2024.

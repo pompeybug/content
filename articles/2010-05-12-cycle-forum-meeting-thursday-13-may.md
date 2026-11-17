@@ -2,6 +2,9 @@
 title: Cycle Forum Meeting Thursday 13 May
 id: 1130
 date: 2010-05-12
+section: meetings
+tags:
+  - open-meeting
 ---
 
 This month we'll be looking back to the conference and asking the question: Portsmouth - A Future Cycling City?

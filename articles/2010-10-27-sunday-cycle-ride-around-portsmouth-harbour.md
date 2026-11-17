@@ -2,9 +2,9 @@
 title: Sunday Cycle Ride around Portsmouth Harbour
 id: 1484
 tags:
-  - events
   - rides
 date: 2010-10-27
+section: rides-and-events
 ---
 
 In response to requests we have another of our popular social rides. On Sunday 31st October we will meet in Victoria Park at 11am for a ride around Portsmouth Harbour.

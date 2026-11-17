@@ -1,8 +1,12 @@
 ---
-
 title: Hayling Seafront Ride Sunday 29 April
 id: 3252
 date: 2012-04-26
+section: rides-and-events
+tags:
+  - seafront
+  - hayling
+  - rides
 ---
 
 Our April bike ride takes us to Hayling Island where we'll ride along the seafront at Hayling as far as Eaststoke and back with time to explore the attractions.

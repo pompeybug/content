@@ -4,6 +4,7 @@ id: 1393
 date: 2010-07-20
 caption: Cosham High Street
 coverImage: /public/assets/Cosham-5.jpg
+section: campaigns
 ---
 
 Portsmouth Cycle Forum presented a deputation at the PCC Traffic &amp; Transportation meeting on the 15th July.  The deputation was against the proposed implementation of echelon-style parking outside the old cinema in Cosham.  Our argument was that echelon parking presents an unacceptable hazard to all vulnerable road users, especially cyclists.

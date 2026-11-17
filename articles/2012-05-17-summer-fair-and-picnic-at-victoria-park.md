@@ -1,11 +1,10 @@
 ---
 title: Summer Fair and Picnic at Victoria Park
 id: 3309
-tags:
-  - events
 date: 2012-05-17
 coverImage: /public/assets/PSF_2012_Web_banner.jpg
 caption: Portsmouth Summer Fair and Picnic at Victoria Park on Saturday 19 May
+section: rides-and-events
 ---
 
 There are loads of other attractions so com along for a fun-packed day.

@@ -1,13 +1,11 @@
 ---
-
 title: Free Bicycle Marking in Portsmouth
 tags:
-  - Security
-  - Theft
-  - "2009"
+  - bike-theft
 date: 2009-12-22 17:50:32
 caption: Stamp out bike theft!
 figure: me_bike-theft-415.jpg
+section: news
 ---
 
 Hampshire Police are offering free 'Cycle Marking' sessions in Commercial Road, Portsmouth between 10am and 4pm on 19th January, 17th February and 17th March.

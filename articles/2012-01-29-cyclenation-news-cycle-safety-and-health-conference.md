@@ -2,8 +2,10 @@
 title: Cycle safety and Health conference
 id: 3072
 tags:
- - cyclenation
+  - cyclenation
+  - conference
 date: 2012-01-29
+section: news
 ---
 
 A quick heads-up about a conference we're organising - please put the date in your group diaries and start thinking about who from your group might like to go. We'll let you have more details when they're finalised. 

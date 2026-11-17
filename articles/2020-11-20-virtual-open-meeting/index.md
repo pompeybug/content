@@ -1,10 +1,10 @@
 ---
-
 title: PCF Open Forum Meeting
 date: 2020-11-20
 tags:
-   - A City to Share
-
+  - a-city-to-share
+  - open-meeting
+section: meetings
 ---
 
 The first public meeting of the Portsmouth Cycle Forum since October 2019. How did you find cycling in Portsmouth during 2020?

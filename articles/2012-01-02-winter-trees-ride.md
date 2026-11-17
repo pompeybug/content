@@ -4,6 +4,7 @@ id: 3004
 tags:
   - rides
 date: 2012-01-02
+section: rides-and-events
 ---
 
 This coming Sunday, 8th January, is the first group ride of the year.

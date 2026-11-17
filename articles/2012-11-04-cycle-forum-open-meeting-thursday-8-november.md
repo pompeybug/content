@@ -1,11 +1,10 @@
 ---
-
 title: Cycle Forum Open Meeting Thursday 8 November
 id: 3540
 tags:
-  - meetings
   - open-meeting
 date: 2012-11-04
+section: meetings
 ---
 
 Our open meeting on Thursday 8 November will be at Eastney Community Centre in Bransbury Road, PO4 9SU.

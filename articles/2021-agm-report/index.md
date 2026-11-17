@@ -1,14 +1,12 @@
 ---
-
 title: 2021 AGM - Report
 date: 2021-05-17
-tags: 
+tags:
   - agm
-  - meetings
-  - pcf
   - committee
 
 coverImage: "./AGM2021-2.jpg"
+section: meetings
 ---
 
 Back in April we held our first ever virtual AGM. Last year’s AGM was cancelled due to Covid 19 and the introduction of social distancing. In fact, the night before the very first lock down three of our committee were sat round a kitchen table planning the agenda. This all ended rather abruptly as phones pinged to tell said committee members to get home sharpish.

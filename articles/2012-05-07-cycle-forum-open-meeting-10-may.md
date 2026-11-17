@@ -1,10 +1,10 @@
 ---
-
 title: Cycle Forum Open Meeting 10 May
 id: 3266
 tags:
-  - meetings
+  - open-meeting
 date: 2012-05-07
+section: meetings
 ---
 
 Come along to our open meeting on Thursday 10 May when we’ll be looking at The Times campaign and hearing about Cyclenation, the umbrella group for cycle campaign groups in the UK.

@@ -1,9 +1,8 @@
 ---
 title: "'No Entry - except cycles' is on its way"
 id: 1747
-tags:
-  - campaigns
 date: 2011-01-17
+section: campaigns
 ---
 
 In September 2009 we reported that PCC had agreed to introduce two-way cycling on new one-way roads in the city. This came about in large part as a result of lobbying from Portsmouth Cycle Forum. The DfT's rules have meant that the council has had to either use elaborate engineering measures and create a dedicated contraflow cycle lane at the entry point to the one-way street or use ‘no motor vehicles’ signs. However, it is often claimed that motorists do not understand what the 'flying motorcycle' means. You may have noticed some of the new one-way roads with two-way access for cycles in Oxford Road, Mariners Walk and Ringwood Road.

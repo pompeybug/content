@@ -2,11 +2,11 @@
 title: No Crossings for Pedestrians or Cyclists at Velder Ave Junction
 id: 3110
 tags:
-  - campaigns
-  - pcc
+  - city-council
   - infrastructure
   - velder-ave
 date: 2012-03-06
+section: campaigns
 ---
 
 Facilities for pedestrians and cyclists have been turned off at the busy junction of Velder Avenue and Milton Road for over 2 weeks. The junction, which is one of the busiest in the city, is used by hundreds of school children each day as they attend nearby Milton Cross school. No alternative crossings have been provided to protect pedestrians and cyclists using the junction.

@@ -1,12 +1,10 @@
 ---
-
 title: PCF Committee Meeting - July 2013
 tags:
   - committee
-  - meetings
-  - pcf
 id: 3730
 date: 2013-07-02
+section: meetings
 ---
 
 The next PCF committee meeting will be held on Friday 5th July at 6pm.  If you have any suggestions for what should be discussed please [let us know](http://www.pompeybug.co.uk/contact-us/ "Contact Us").

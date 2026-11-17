@@ -2,6 +2,9 @@
 title: Ride for Japan
 id: 2127
 date: 2011-03-23
+section: rides-and-events
+tags:
+  - rides
 ---
 
 On Sunday 3rd April why not go for a ride?

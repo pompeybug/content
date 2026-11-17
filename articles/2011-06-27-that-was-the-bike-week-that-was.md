@@ -1,13 +1,13 @@
 ---
-
 title: That was the Bike Week that was ...
 id: 2542
 tags:
-  - events
   - rides
+  - bike-week
 date: 2011-06-27 00:12:31
 caption: Is it a train? Yes, but it's a bike too!
 coverImage: /public/assets/Hayling-Billy-Ride-8.jpg
+section: rides-and-events
 ---
 
 Well, Bike Week in Portsmouth has drawn to a close and what a great week it has been! The rides have been excellent and varied although the weather could have been worse!

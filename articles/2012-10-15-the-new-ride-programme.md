@@ -1,10 +1,10 @@
 ---
-
 title: the new ride programme
 id: 3517
 tags:
   - rides
 date: 2012-10-15
+section: rides-and-events
 ---
 
 Here is the new ride programme...[Ride programme - winter](/public/assets/docs/Ride-programme-winter.pdf)

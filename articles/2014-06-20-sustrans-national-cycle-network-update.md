@@ -2,6 +2,7 @@
 title: Sustrans National Cycle Network Update
 id: 4126
 date: 2014-06-20
+section: guides
 ---
 
 If you live in the Portsmouth and Havant area you now have a choice of safe, well-marked cycle routes to Southsea and Hayling seafronts or up to the South Downs.  Roger Inkpen is a local ranger for Sustrans – the charity creating a national cycle network.  He says:

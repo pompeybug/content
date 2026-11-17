@@ -2,12 +2,13 @@
 title: Portsmouth still has worst Cyclist Casualty Rate outside of London
 id: 4087
 tags:
-  - campaigns
-  - pcc
+  - city-council
   - cycle-routes
+  - safety
 date: 2014-05-23 10:37:45
 caption: Cyclist &amp; HGV collision Hilsea May 2011
 figure: Cyclist-HGV-collision-Hilsea-5may11-2-med-300x192.jpg
+section: campaigns
 ---
 
 For the second year running Portsmouth is the most dangerous place in England outside of London. Government statistics show that Portsmouth suffered 832 cyclist casualties per million population in 2012.

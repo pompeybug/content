@@ -1,12 +1,10 @@
 ---
 title: 2022 AGM - Registration
 date: 2022-03-08
-tags: 
+tags:
   - agm
-  - events
-  - meetings
-  - pcf
 coverImage: "./agm4.png"
+section: meetings
 ---
 
 **Our 2022 Annual General Meeting will take place at 7.00pm on Thursday 24nd March.**

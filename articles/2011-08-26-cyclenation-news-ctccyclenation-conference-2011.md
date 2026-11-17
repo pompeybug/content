@@ -2,9 +2,12 @@
 title: CTC/Cyclenation Conference 2011
 id: 2661
 tags:
- - cyclenation
+  - cyclenation
+  - conference
 date: 2011-08-26
+section: news
 ---
+
 Further details of the annual conference have been released and include the news that Danny Dorling, Professor of Human Geography in the University of Sheffield will be one of the speakers and will address the subject of :&ldquo; Social Mobility and Access &ndash; Cycling&rsquo;s contribution? &rdquo;
 
 The event will be held at Sheffield University &ndash; Firth Court on Saturday 15th October 2011.  The overall theme is &ldquo;Cycle Campaigning and Localism &ndash; Threats and Opportunities&rdquo;

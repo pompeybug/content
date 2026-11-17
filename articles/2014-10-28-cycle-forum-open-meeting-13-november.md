@@ -2,9 +2,10 @@
 title: Cycle Forum Open Meeting 13 November
 id: 4223
 tags:
-  - meetings
-  - A City to Share
+  - a-city-to-share
+  - open-meeting
 date: 2014-10-28
+section: meetings
 ---
 
 # SOLENT TRANSPORT // A CITY TO SHARE

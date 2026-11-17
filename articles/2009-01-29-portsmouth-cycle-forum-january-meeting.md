@@ -1,12 +1,11 @@
 ---
-
 title: Portsmouth Cycle Forum January Meeting
 id: 330
 tags:
-    - "2009"
-    - open-meeting
+  - open-meeting
 date: 2009-01-29
 ok: true
+section: meetings
 ---
 
 Report on the Portsmouth Cycle Forum Open Meeting - 29 January 2009

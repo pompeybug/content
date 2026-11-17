@@ -6,6 +6,7 @@ tags:
 date: 2023-08-10
 
 coverImage: "./beryl.jpg"
+section: campaigns
 ---
 
 # Traffic & Transportation Cabinet Decision Meeting - 10th August 2023

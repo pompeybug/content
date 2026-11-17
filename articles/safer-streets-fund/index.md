@@ -1,16 +1,16 @@
 ---
 title: Safer Streets Fund - Barrier Tour
 date: 2021-10-22
-tags:  
-  - campaigns
+tags:
   - cycle-routes
   - infrastructure
-  - police-and-crime-commissioner 
+  - police
   - barriers
-  - crime-prevention
+  - bike-theft
   - safer-streets-fund
   - rides
 coverImage: "./Barriers-stuck-brake-levers-2.jpg"
+section: campaigns
 ---
 
 We invited Charles Dickens Ward councillors for a ‘barrier tour’

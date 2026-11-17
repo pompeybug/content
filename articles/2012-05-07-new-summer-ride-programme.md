@@ -4,6 +4,7 @@ id: 3279
 tags:
   - rides
 date: 2012-05-07
+section: rides-and-events
 ---
 
 

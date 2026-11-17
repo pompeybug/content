@@ -2,9 +2,10 @@
 title: Portsmouth's Cyclist Accident Rate Increases by 9%
 id: 4212
 tags:
-  - campaigns
   - city-council
+  - safety
 date: 2014-09-27
+section: campaigns
 ---
 
 The number of cyclists injured on Portsmouth’s roads has worsened.  Last year Portsmouth had England’s worst rate of cycle accidents outside of London. The number of accidents in which a cyclist is injured has now increased to 906 casualties per million of population from 832 per million in 2012.  This is an increase of 9%.

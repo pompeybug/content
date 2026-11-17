@@ -2,11 +2,11 @@
 title: "#WeRidePortsmouth - Alison"
 date: 2024-01-27
 tags:
- - WeRidePortsmouth
- - women-cycling
- - stories
+  - we-ride-portsmouth
+  - women-cycling
 coverImage: ./alison.jpg
 coverImageAlignment: top
+section: stories
 ---
 
 I’m Alison, and I use my bike to get about in Portsmouth for both chores and hobbies

@@ -2,12 +2,12 @@
 title: 'Open Meeting: Safer Cycling in Portsmouth'
 id: 4133
 tags:
-  - campaigns
-  - pcc
-  - meetings
+  - city-council
+  - open-meeting
 date: 2014-06-27
 coverImage: ./Cyclist-HGV-collision-Hilsea-5may11-2-med-300x192.jpg
-caption:  Cyclist and HGV Incident in Hilsea
+caption: Cyclist and HGV Incident in Hilsea
+section: meetings
 ---
 
 Do you cycle in Portsmouth? Perhaps you would like to cycle in Portsmouth but are nervous about the roads?

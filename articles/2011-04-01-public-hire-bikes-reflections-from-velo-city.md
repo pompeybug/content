@@ -1,10 +1,10 @@
 ---
-
 title: Public Hire Bikes - Reflections from Velo-City
 id: 2173
 tags:
   - velo-city
 date: 2011-04-01 08:03:37
+section: news
 ---
 
 One of the key themes of the Expo at Velo-City was public bike hire systems of a similar sort to that now implemented in London.  There were 8 companies offering a variety of public hire bike systems including Bixi (providers of public hire bikes in London, Montreal and many other cities) and JC Decaux (providers of the system in Seville and Paris, amongst others).  One couldn't help but wonder that whilst this was no doubt a growth market,  was there room for all of these companies?

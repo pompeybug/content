@@ -2,10 +2,13 @@
 title: Central Cosham Improvements – Consultation by PCC
 id: 3710
 tags:
-  - pcc
+  - city-council
   - infrastructure
   - opinion
+  - consultations
+  - cosham
 date: 2013-06-13
+section: campaigns
 ---
 
 Portsmouth City Council is consulting on plans to improve Cosham High Street and has allocated £200,000 of public funds to spend on changes to the layout and street features between Vectis Way and Wayte Street.

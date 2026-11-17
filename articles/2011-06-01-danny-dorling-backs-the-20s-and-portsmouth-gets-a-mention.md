@@ -1,10 +1,10 @@
 ---
-
 title: Danny Dorling backs the 20s and Portsmouth gets a mention
 id: 2392
 tags:
   - opinion
 date: 2011-06-01
+section: stories
 ---
 
 Professor Dorling is advocating [the introduction of 20 nationwide](http://web.archive.org/web/20160425104813/http://www.whatonechange.co.uk/adopt-a-20mph-speed-limit-in-residential-areas-danny-dorling/ "Danny Dorling") in residential streets. He uses Portsmouth as an example of an Authority that has taken this step. We feel that the true benefits of the 20s will be felt when this excellent initiative is promoted and enforced in the city. If all drivers in residential roads in Portsmouth stuck to 20, cyclists and pedestrians could feel safer and be safer.

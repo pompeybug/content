@@ -1,15 +1,13 @@
 ---
-
 title: January committee meeting
 date: 2021-01-08
-tags:  
-  - meetings
-  - pcf 
+tags:
   - eastern-road
-  - ltp4
+  - local-transport-plan
   - open-meeting
   - committee
 coverImage: "./google-meet-1280x720-1.jpg"
+section: meetings
 ---
 
 Committee Meeting Summary - January 2021

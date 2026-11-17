@@ -1,8 +1,8 @@
 ---
-
 title: Portsmouth has High Cycling Potential says new report
 id: 1133
 date: 2010-05-14
+section: campaigns
 ---
 
 A report from traffic consultants Steer Davies Greave puts Portsmouth high on the list of English towns and cities with cycling potential. The Cycling Potential Index (CPI) ranks the towns and cities in England and Wales by their underlying attractiveness for cycling in terms of terrain, demographics and travel patterns.

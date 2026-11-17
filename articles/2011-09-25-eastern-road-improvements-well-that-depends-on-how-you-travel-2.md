@@ -3,7 +3,9 @@ title: Eastern Road Improvements? well that depends on how you travel!
 id: 2763
 date: 2011-09-25
 tags:
- - velder-ave
+  - velder-ave
+  - eastern-road
+section: campaigns
 ---
 
 At the Cycle Forum’s meeting on 8 September, Pam Turton and Adam Bunce of Portsmouth City Council spoke about the Eastern Road and Velder Avenue/Rodney Road junction improvement schemes.

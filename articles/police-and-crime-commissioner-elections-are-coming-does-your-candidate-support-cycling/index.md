@@ -1,12 +1,11 @@
 ---
-
 title: Police and Crime Commissioner elections are coming - does your candidate support cycling?
 date: 2021-05-04
-tags:  
+tags:
   - elections
-  - police-and-crime-commissioner 
-  - elections
+  - police
 coverImage: "./PCCHIOW.png"
+section: campaigns
 ---
 
 Our Committee members are an active bunch. One of them is also involved in leading efforts to improve cycling across the wider county of Hampshire. He recently dropped an email to the four candidates for the Police and Crime Commissioner elections coming up on 6th May. 

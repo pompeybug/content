@@ -1,11 +1,10 @@
 ---
 title: Police urge cyclists to ‘be more polite’ as crackdown starts
 id: 3412
-tags:
-  - campaigns
 date: 2012-07-18
 coverImage: /public/assets/car-on-path-alb-rd-1-700x525.jpg
 caption: Parked cars on cycle lane on Albert Road Southsea
+section: campaigns
 ---
 
 The title of this post is the headline for an article in Portsmouth's daily newspaper published on 18 July.  Here is a response from Portsmouth Cycle Forum_._

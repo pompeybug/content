@@ -2,8 +2,9 @@
 title: Air Pollution Photo Call
 id: 2780
 tags:
-  - campaigns
+  - air-quality
 date: 2011-10-28
+section: campaigns
 ---
 
 Keith Taylor, Green MEP for the South East of England has launched a campaign to raise awareness of air pollution and its health impacts in the South East. In his new publication 'Air Pollution - the Invisible Killer' he outlines how air pollution is a much more serious problem than most people realise, contributing to around 200,000 premature deaths each year.

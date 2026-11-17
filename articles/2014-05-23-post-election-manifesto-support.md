@@ -2,9 +2,10 @@
 title: Post-election manifesto support
 id: 4090
 tags:
-  - campaigns
-  - pcc
+  - city-council
+  - elections
 date: 2014-05-23
+section: campaigns
 ---
 
 Following last yesterday's elections how do the newly elected Councillors appear to stand on cycling?  We asked all candidates before the election to support our cycling [manifesto](/our-cycling-manifesto/), and [many did](manifesto-responses/).  How many of these bike-friendly candidates got themselves elected?

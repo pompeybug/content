@@ -1,14 +1,12 @@
 ---
-
 title: A Time To Remember, A Time To Act
 date: 2017-06-10
-tags:  
-  - campaigns
+tags:
   - city-council
-  - events 
   - tim-atkins
-  - A City to Share
+  - a-city-to-share
 coverImage: "./IMG_4876-672x372-1.jpeg"
+section: campaigns
 ---
 
 Last week two terrible incidents occurred that highlight the dangers faced by cyclists on our roads. On Thursday 1st June a cyclist was seriously injured on Fratton Bridge and remains in a coma. On Friday 2nd June a cyclist, Tim Atkins, was killed after falling into traffic on the Eastern Road after a collision with another cyclist.

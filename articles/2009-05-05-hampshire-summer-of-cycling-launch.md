@@ -1,11 +1,8 @@
 ---
-
 title: Hampshire Summer of Cycling Launch
 date: 2009-05-05
-tags:
-    - map
-    - "2009"
 ok: true
+section: news
 ---
 
 Scores of cyclists rode to Gunwharf Quays to visit Portsmouth Cycle Forum's Giant cycling map on Bank Holiday Saturday.

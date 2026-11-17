@@ -4,7 +4,9 @@ id: 1984
 tags:
   - newsletter
 date: 2011-02-25
+section: news
 ---
+
  
 The latest issue of the Cycle Forum's newsletter is now available.  Featuring news and views on cycling in the city we hope you will find this edition interesting and enjoyable.  We're always looking for contributions for future editions so please send them in.
 

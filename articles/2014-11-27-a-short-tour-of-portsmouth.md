@@ -2,11 +2,11 @@
 title: A Short Tour of Portsmouth
 id: 4269
 tags:
-  - campaigns
-  - pcc
+  - city-council
 date: 2014-11-27 13:24:14
 caption: Our Route
 figure: tour-mg-nov-14.jpg
+section: campaigns
 ---
 
 Cycle Forum committee members Jon Spencer and Mike Dobson took a cycle tour of the city on Monday night Portsmouth City Council's Assistant Head of Transport Marc Griffin and Active Travel Officer James Roberts. Along for the ride was Simon Pratt, regional director of Sustrans. The aim was to review the current cycle provision in the areas visited and we plan to take more rides to cover other areas in future.

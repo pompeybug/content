@@ -1,13 +1,13 @@
 ---
 title: Lakeside Planning Application Approved
 tags:
-  - campaigns
-  - pcc
+  - city-council
   - cycle-routes
-  - "2009"
+  - lakeside
 date: 2009-12-10 13:39:30
 caption: 1000 Lakeside
 figure: me_1000_Lakeside.jpg
+section: campaigns
 ---
 
 The deferred planning application for a new business development at Lakeside, North Harbour was approved at the City Council’s Planning Committee on 9 December.

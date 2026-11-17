@@ -3,10 +3,11 @@ title: Reflections on Rule 5 and Real Cyclists
 id: 4252
 tags:
   - opinion
-  - A City to Share
+  - a-city-to-share
 date: 2014-11-15 17:13:45
 coverImage: ./Tom-Simpson-008-300x180.jpg
-caption:  Tom Simpson
+caption: Tom Simpson
+section: stories
 ---
 
 Recently the topic of [**The Rules**](http://www.velominati.com/the-rules/) has popped it's head up in a couple of discussions over on the [book of faces](https://www.facebook.com/groups/pompeybug/ "Portsmouth Cycle Forum on Facebook"). I should say up front, for people who worry about these things, that The Rules aren't real rules. They are meant to be a tongue in cheek guide to how one should present oneself and one's bicycle if one wishes to be seen as a 'real' cyclist (what is a real cyclist? Good question, and I'll come back to that).

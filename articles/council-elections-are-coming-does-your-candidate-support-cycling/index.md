@@ -1,13 +1,11 @@
 ---
-
 title: Council Elections are coming - does your candidate support cycling?
 date: 2021-05-04
-tags:  
-  - campaigns
+tags:
   - city-council
-  - elections 
   - elections
 coverImage: "./votebike-banner1_1.png"
+section: campaigns
 ---
 
 At our Annual General Meeting in April, our members asked us to contact the main political parties so they could find out their position on improving cycling in the city, particularly given the opportunity that both central Government (through the Gear Change policy) and local council policies (including the Local Transport Plan 4 and Climate Change Emergency) are giving the opportunity to reset the active travel agenda.

@@ -1,14 +1,13 @@
 ---
-
 title: The Darkest hour is just before the dawn
 date: 2017-06-29
-tags:  
-  - campaigns
+tags:
   - city-council
-  - cycle-routes 
+  - cycle-routes
   - tim-atkins
-  - A City to Share
+  - a-city-to-share
 coverImage: "./2017_0615AK-672x372-1.jpg"
+section: campaigns
 ---
 
 On Thursday 15th June 2017, over 200 cyclists gathered in the Guildhall Square in Portsmouth to remember one of our own, Tim Atkins who was killed on his way home from work on a sunny, bright and dry Friday evening when he collided with another cyclist on the Eastern Road cycle path and fell into the road in front of a moving vehicle.  It was a tragic accident for which none of the parties involved were to blame.

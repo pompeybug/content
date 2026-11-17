@@ -1,15 +1,14 @@
 ---
-
 title: There's a plan afoot!
 date: 2020-12-23
-tags:  
-  - blog
+tags:
   - city-council
   - cycle-routes
-  - infrastructure 
+  - infrastructure
   - consultations
   - lcwip
 coverImage: "./IMG_20200531_212143.jpg"
+section: campaigns
 ---
 
 There’s a plan afoot. A Local Cycling and Walking Infrastructure Plan, or LCWIP, to be precise.\*

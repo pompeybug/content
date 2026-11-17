@@ -1,13 +1,12 @@
 ---
-
 title: PCF to Host CTC/Cyclenation Conference
 tags:
-  - Conference
-  - events
-  - "2009"
+  - conference
+  - cyclenation
 date: 2009-12-29 12:00:12
 caption: Portland Building, University of Portsmouth
 figure: Media75953en-150x150.jpg
+section: news
 ---
 
 Portsmouth Cycle Forum with the Cycle Touring Club and Cyclenation are pleased to announce that Portsmouth is to host the CTC/Cyclenation Cycle Campaign Conference, on 17th April 2010.

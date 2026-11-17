@@ -1,12 +1,11 @@
 ---
-
 title: How to respond to a planning application
 date: 2021-03-17
 tags:
-  - Help
-  - A City to Share
-todo: 
+  - a-city-to-share
+todo:
   - Fix the link to the tube map
+section: guides
 ---
 
 # Introduction

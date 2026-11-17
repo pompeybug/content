@@ -2,9 +2,10 @@
 title: Vote for Cycling!
 id: 2289
 tags:
-  - campaigns
-  - pcc
-date: 2011-05-04 
+  - city-council
+  - elections
+date: 2011-05-04
+section: campaigns
 ---
 
 Vote for bikes, more fun and freedom, fresh air, health - for almost free! Its local election time and here is the result of our own electioneering.

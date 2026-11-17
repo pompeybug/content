@@ -1,15 +1,14 @@
 ---
-
 title: Southsea Seafront Cycle Route draft plans revealed
 tags:
-  - campaigns
-  - pcc
+  - city-council
   - cycle-routes
-  - "2009"
+  - seafront
 date: 2009-08-31
-caption: A map depicting the proposed route 
+caption: A map depicting the proposed route
 coverImage: "./map.png"
 ok: true
+section: campaigns
 ---
 
 # Phase 1 Plans Revealed

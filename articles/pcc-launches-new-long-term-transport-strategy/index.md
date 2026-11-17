@@ -1,15 +1,14 @@
 ---
-
 title: PCC launches new Long Term Transport Strategy
 date: 2020-12-28
-tags:  
-  - A City to Share
-  - blog
+tags:
+  - a-city-to-share
   - city-council
-  - infrastructure 
+  - infrastructure
   - consultations
-  - ltp4
+  - local-transport-plan
 coverImage: "./IMG_1799.jpeg"
+section: campaigns
 ---
 
 One of several consultations to all arrive at the same time this summer was Portsmouth City Council’s (PCC) new long term strategy. The document is called “Transport Strategy 2020” but we all know it as LTP4 as it’s the fourth iteration of the city’s Local Transport Plan. Although these documents are no longer mandated by government, they are the basis of all local transport decisions and are crucial for setting goals, and securing future funding. 

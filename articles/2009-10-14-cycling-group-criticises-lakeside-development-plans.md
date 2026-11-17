@@ -2,13 +2,13 @@
 title: Cycling group criticises Lakeside development plans
 id: 355
 tags:
-  - campaigns
-  - pcc
+  - city-council
   - cycle-routes
-  - "2009"
+  - lakeside
 date: 2009-10-14
 caption: Portsbridge Roundabout
 figure: me_Portsbridge_Roundabout_12Sep09_07a.jpg
+section: campaigns
 ---
 
 The delayed planning application for a new business development at Lakeside, North Harbour was deferred at the City Council’s Planning Committee on 14 October. The developers, Highcross, boast that the flagship scheme will have excellent ‘green’ credentials and claim that the it will encourage people to use sustainable travel (walking, cycling and buses). The Portsmouth Cycle Forum is one of many organisations objecting and has pointed out that the plans for the pedestrian and cycle routes to Lakeside are seriously inadequate.

@@ -1,15 +1,15 @@
 ---
-
 title: Seafront defences planning application
 date: 2019-09-15
-tags:  
-  - campaigns
+tags:
   - city-council
   - cycle-routes
-  - environment 
+  - environment
   - coastal-defence
-  - planning-application
+  - planning
+  - seafront
 coverImage: "./Sea_defences.jpg"
+section: campaigns
 ---
 
 The planning application for the whole of the seafront sea defences was submitted in late July with responses due by 6 September, and in the next few weeks it will be considered by the city council planning committee. We’ve been involved with some of the consultation and we’d like to see what’s best for cyclists, without adversely affecting other users of the seafront.

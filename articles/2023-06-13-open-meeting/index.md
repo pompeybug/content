@@ -1,13 +1,14 @@
 ---
 title: Open Meeting
 date: 2023-06-13
-tags: 
+tags:
   - open-meeting
   - university
-categories: 
+categories:
   - open-meeting
   - meetings
   - pcf
+section: meetings
 ---
 
 The next PCF public meeting takes place on Thursday 15th June at 7pm. Anyone is welcome, whether they are a member or not, so please spread the word!

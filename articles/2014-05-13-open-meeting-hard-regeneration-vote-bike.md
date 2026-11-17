@@ -1,12 +1,11 @@
 ---
-
 title: 'Open Meeting: Cycle Safety / Vote Bike'
 id: 3978
 tags:
-  - meetings
-  - pcf
+  - open-meeting
 date: 2014-05-13
 coverImage: /public/assets/space_for_cycling_slogans.jpg
+section: meetings
 ---
 
 Join us for our next open meeting on Thursday 15 May at 7pm in room [SEM5 of the Student Union building on Cambridge Road](https://www.google.co.uk/maps/preview/place/university+of+portsmouth+su/@50.7945485,-1.0963502,17z/data=!3m1!4b1!4m2!3m1!1s0x48745d9ca4d71053:0x7474561a9c6fef4e?hl=en "Meeting Location").  The meeting will cover:

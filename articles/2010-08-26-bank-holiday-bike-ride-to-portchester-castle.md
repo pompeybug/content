@@ -1,8 +1,10 @@
 ---
-
 title: Bank Holiday Bike Ride to Portchester Castle
 id: 1410
 date: 2010-08-26
+section: rides-and-events
+tags:
+  - rides
 ---
 
 Portsmouth Cycle Forum in association with Healthy Pompey is organising a family bike ride to Portchester Castle on Bank Holiday Sunday 29 August.

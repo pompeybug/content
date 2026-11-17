@@ -1,18 +1,12 @@
 ---
-
 title: For the price of a bike helmet...
 tags:
-  - bicycle
-  - budget
-  - campaigns
-  - helmet
+  - helmets
   - infrastructure
-  - petition
   - safety
-  - sky
-  - training
 id: 2947
 date: 2011-12-29
+section: campaigns
 ---
 
 Recently I went on a work 'risk assessment' course where we had to identify measures that could reduce the risks in a given activity. We were instructed to start '_with the most effective safety measures that helped all of the participants_', and then work our way through to the most ineffective measures.

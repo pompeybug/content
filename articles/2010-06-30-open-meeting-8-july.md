@@ -2,8 +2,9 @@
 title: Open Meeting 8 July
 id: 1251
 tags:
-  - meetings
+  - open-meeting
 date: 2010-06-30
+section: meetings
 ---
 
 The new Local Transport Plan for Portsmouth (LTP3) and Traffic Control in the city are the main topics for the meeting of Portsmouth Cycle Forum on 8 July.

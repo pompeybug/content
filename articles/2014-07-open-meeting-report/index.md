@@ -2,13 +2,12 @@
 title: Open Meeting Report
 id: 4145
 tags:
-  - campaigns
-  - pcc
-  - meetings
-  - pcf
+  - city-council
+  - open-meeting
 date: 2014-07-21 21:22:59
 coverImage: ./5432218-large-300x201.jpg
 caption: Community Speedwatch
+section: meetings
 ---
 
 We had another successful public meeting on 10th July with presentations from Hampshire Police and Portsmouth City Council. The meeting was held at the John Pounds Centre in Portsea.

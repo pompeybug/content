@@ -3,7 +3,7 @@ title: Celebrate the Street in Chichester
 date: 2013-06-24 16:45:12
 figure: chicycle_top.png
 caption: Promoting safe & confident cycling in and around Chichester, West Sussex
-
+section: news
 ---
 
 Our friends at ChiCycle, the Chichester cycle campaign group, are running an event called “Celebrate the Street” in Whyke on Sunday 30th June from 12.00 to 4.00 pm.  It will see neighbours coming together around the theme of the street:

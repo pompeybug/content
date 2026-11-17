@@ -2,11 +2,11 @@
 title: "#WeRidePortsmouth - Jacqueline"
 date: 2024-03-29
 tags:
- - WeRidePortsmouth
- - women-cycling
- - stories
+  - we-ride-portsmouth
+  - women-cycling
 coverImage: ./jacqueline.jpg
 coverImageAlignment: top
+section: stories
 ---
 
 For the March feature, we've partnered with Sustrans to share Jacqueline's story. Jacqueline, who came to the UK seeking asylum from El Salvador with her parents and younger brother, was moved from London to Portsmouth - a city where they knew no one. 

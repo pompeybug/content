@@ -2,9 +2,9 @@
 title: First Burst of Spring Ride ‘n’ Walk Sunday 25 March
 id: 3122
 tags:
-  - events
   - rides
 date: 2012-03-23
+section: rides-and-events
 ---
 
 Winter’s on the way out, so why not go out? Join our **First Burst of Spring Ride ‘n’ Walk** on Sunday 25 March.

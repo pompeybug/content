@@ -1,14 +1,13 @@
 ---
-
 title: Remembering Tim Atkins
 date: 2021-06-21
-tags:  
-  - campaigns
+tags:
   - safety
   - infrastructure
   - eastern-road
   - city-council
 coverImage: "./IMG_4876-672x372-1.jpeg"
+section: stories
 ---
 
 It is four years since Portsmouth Cycle Forum rallied cyclists in Guildhall Square to mourn the tragic death of Tim Atkins and to demand action from Portsmouth City Council. Tim was involved in a head-on collision with another cyclist on the narrow path and fell into the traffic. His grieving family joined us in calling for urgent action on the Eastern road to avoid the needless loss of any more lives.

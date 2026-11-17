@@ -1,5 +1,4 @@
 ---
-
 title: Wednesday Morning Bike Rides
 id: 3487
 tags:
@@ -7,6 +6,7 @@ tags:
 date: 2012-08-27
 coverImage: /public/assets/Victoria-Park-1.jpg
 caption: Victoria Park Portsmouth
+section: rides-and-events
 ---
 
 The Wednesday morning bike rides give the opportunity to meet people and explore Portsmouth's quieter streets and cycle routes. Rides start at the Stacey Community Centre in Walsall Road, Copnor (near St Mary's Hospital) and there is always a stop for coffee stop either en-route on the way.

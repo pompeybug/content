@@ -2,8 +2,9 @@
 title: July Open Meeting - Minutes available!
 id: 3458
 tags:
-  - meetings
+  - open-meeting
 date: 2012-07-30
+section: meetings
 ---
 
 Our open meeting on 12 July was at Wiggle in Southampton Road where we learned about the history of the company from its roots at Butler’s Cycles in Southsea to its current position as one of the UKs leading on-line cycle retailers.

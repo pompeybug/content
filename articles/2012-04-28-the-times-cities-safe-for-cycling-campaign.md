@@ -2,9 +2,9 @@
 title: The Times Cities safe for Cycling campaign
 id: 3245
 tags:
-  - campaigns
   - city-council
 date: 2012-04-28
+section: campaigns
 ---
 
 The Times has launched a public campaign and 8-point manifesto calling for cities to be made fit for cyclists:

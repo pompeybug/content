@@ -2,10 +2,11 @@
 title: City Traffic Light Review
 id: 1664
 tags:
-  - campaigns
-  - pcc
-  - Infrastructure
+  - city-council
+  - infrastructure
+  - traffic-lights
 date: 2011-01-06
+section: campaigns
 ---
 
 As you may have read in the Portsmouth Evening News, the City Council is conducting a review of traffic signals across the city with the aim of removing 'failing' signals.  The News reported on 31 December that Councillors Fazackarley (executive member for traffic and transportation)  and Stubbs (conservative group spokesman for traffic and transportation) have toured the city with taxi drivers to understand their views on which junctions work and which don't.

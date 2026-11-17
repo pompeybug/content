@@ -4,6 +4,7 @@ id: 2606
 tags:
   - rides
 date: 2011-07-29
+section: rides-and-events
 ---
 
 Southsea Cycle Club is holding its first public [Alley Cat](http://en.wikipedia.org/wiki/Alleycat_races) event on Saturday 6 August.

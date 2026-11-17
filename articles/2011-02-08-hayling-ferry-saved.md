@@ -2,9 +2,10 @@
 title: Hayling Ferry Saved
 id: 1777
 tags:
-  - campaigns
-  - pcc
+  - city-council
+  - hayling
 date: 2011-02-08
+section: campaigns
 ---
 
 We are very pleased to be able to write that the Hayling Ferry service is no longer under threat - PCF has been notified by Cllr Jason Fazackarley that PCC will not be cutting the subsidy.

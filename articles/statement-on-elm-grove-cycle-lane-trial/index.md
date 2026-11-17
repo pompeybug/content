@@ -1,17 +1,16 @@
 ---
-
 title: Statement on Elm Grove cycle lane trial
 date: 2020-11-28
-tags:  
+tags:
   - city-council
   - cycle-routes
-  - infrastructure 
+  - infrastructure
   - elm-grove
   - environment
-  - setup-to-fail
   - streets-for-people
   - wands
 coverImage: "./IMG_2280-1.jpeg"
+section: campaigns
 ---
 
 Portsmouth Cycle Forum note that once again a temporary trial scheme to improve cycling infrastructure has been scrapped, this time in Elm Grove & Kings Road Southsea.

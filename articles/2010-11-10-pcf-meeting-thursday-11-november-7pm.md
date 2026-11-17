@@ -1,10 +1,10 @@
 ---
-
 title: PCF Meeting Thursday 11 November 7pm
 id: 1521
 tags:
-  - meetings
+  - open-meeting
 date: 2010-11-10
+section: meetings
 ---
 
 The November meeting of Portsmouth Cycle Forum will include reports from cycling in two other countries - USA and Scotland! Jon Spencer travelled to Chattanooga to find a remarkably cycle-friendly city whilst four other members attended the CTC/Cyclenation conference last weekend in Edinburgh.

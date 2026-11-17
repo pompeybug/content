@@ -1,10 +1,10 @@
 ---
-
 title: Palmerston Road street improvement works
 id: 2593
 tags:
-  - Infrastructure
+  - infrastructure
 date: 2011-07-22
+section: campaigns
 ---
 
 ![The southern section of Palmerston Road, Southsea](/assets/Palmerston-Road-Southsea-2.jpg)

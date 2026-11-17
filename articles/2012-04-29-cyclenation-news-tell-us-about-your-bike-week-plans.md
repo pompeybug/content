@@ -3,8 +3,10 @@ title: Tell us about your bike week plans
 id: 3264
 tags:
   - cyclenation
+  - bike-week
 date: 2012-04-29
 deadLinks: true
+section: news
 ---
 
 Bike week 2012 is on its way and people are [registering their events](http://www.bikeweek.org.uk/page.php?id=3) for this year.

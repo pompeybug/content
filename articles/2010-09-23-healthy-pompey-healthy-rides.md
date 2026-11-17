@@ -1,11 +1,10 @@
 ---
-
 title: Healthy Pompey - Healthy Rides
 id: 1449
 tags:
-  - events
   - rides
 date: 2010-09-23
+section: rides-and-events
 ---
 
 Healthy Pompey have launched Healthy Rides – a chance to ride your bike further, without taking on the Tour de France!

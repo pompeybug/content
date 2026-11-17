@@ -2,13 +2,12 @@
 title: September News Update
 id: 2690
 tags:
-  - events
-  - Infrastructure
-  - meetings
+  - infrastructure
   - newsletter
   - rides
 date: 2011-09-04
 ok: true
+section: news
 ---
 
 ## Open meeting this Thursday - 8 September

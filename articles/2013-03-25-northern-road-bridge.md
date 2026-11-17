@@ -2,11 +2,11 @@
 title: Northern Road Bridge
 id: 3627
 tags:
-  - campaigns
-  - pcc
+  - city-council
 date: 2013-03-25
 coverImage: /public/assets/NRB01.jpg
 caption: Northern Road Bridge
+section: campaigns
 ---
 
 If you’ve been hibernating over winter (and why not!) you might have missed the work on Northern Road Bridge in Cosham. Nobody is questioning the need to replace an ageing bridge over the railway line, but it is vital cyclists’ needs are considered when road works are being planned.

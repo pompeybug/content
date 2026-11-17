@@ -11,6 +11,7 @@ tags:
   - police
 figure: london-police.jpg
 caption: Pavement cycling, police style
+section: campaigns
 ---
 
 In a state of high-dudgeon at the recent PCC and Hampshire Police crackdown on pavement cycling (read the story in [The News](http://www.portsmouth.co.uk/news/local/hundreds-fined-in-pavement-cycling-clampdown-1-4514128 "The News Pavement Cycling story - warning, may contain deranged ranting in the comments section")) PCF decided to contact Hampshire Police to see how they are dealing with the more serious issue of speeding traffic in our crowded streets.  After all, accident statistics tell us that the big killer of pedestrians is the motor car, not the bicycle.  In fact, you have a considerably higher chance of drowning in the bath than you do of being killed by a cyclist.  Therefore we were confident that, with public safety at the heart of everything they do, Hampshire Police would be taking the problem of speeding traffic seriously.

@@ -1,9 +1,10 @@
 ---
 title: Traffic & Transportation Cabinet Decision Meeting
 date: 2021-12-02
-tags: 
- - deputation
- - elm-grove
+tags:
+  - deputation
+  - elm-grove
+section: campaigns
 ---
 
 ## Agenda item 4: Speed and casualty Reduction Measures

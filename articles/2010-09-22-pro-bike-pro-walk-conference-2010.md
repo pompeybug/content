@@ -2,9 +2,9 @@
 title: Pro-Bike Pro-Walk Conference 2010
 id: 1439
 tags:
-  - campaigns
-  - events
+  - conference
 date: 2010-09-22 22:09:27
+section: campaigns
 ---
 
 I recently attended the Pro-Bike Pro-Walk Conference organised by the US National Center for Biking and Walking and held in Chattanooga, Tennessee.  I was attending on a professional basis and manning a stand in the exhibition hall so was unable to attend the talks but did get to look around the poster sessions and pick up a lot of useful information.

@@ -1,11 +1,10 @@
 ---
-
 title: A City To Share
 date: 2014-11-03
 tags:
- - strategy
- - PCC
- - A City to Share
+  - a-city-to-share
+  - city-council
+section: campaigns
 ---
 
 ## THE VISION

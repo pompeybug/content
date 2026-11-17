@@ -1,14 +1,13 @@
 ---
-
 title: Cycle Tube Map
 date: 2018-12-28
-tags:  
+tags:
   - cycle-routes
-  - infrastructure 
-  - cycle-routes
+  - infrastructure
   - safety
   - tube-map
 coverImage: "./2019-01-15-11_38_02-PCF-Tube-Map-March-2018-Google-Drawings-672x372-1.png"
+section: guides
 ---
 
 We’ve worked with our members, and Cycling UK, to put together a Cycling Tube Map.

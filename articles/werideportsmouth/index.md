@@ -2,8 +2,9 @@
 title: "#WeRidePortsmouth"
 date: 2024-01-08
 tags:
- - WeRidePortsmouth
+  - we-ride-portsmouth
 coverImage: ./werideportsmouth.png
+section: stories
 ---
 
 Influenced by similar projects globally we're excited to introduce [#WeRidePortsmouth](/tags/we-ride-portsmouth).

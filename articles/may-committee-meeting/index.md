@@ -1,18 +1,15 @@
 ---
-
 title: May committee meeting
 date: 2021-05-17
-tags:  
+tags:
   - city-council
   - elections
-  - meetings
-  - pcf
-  - police-and-crime-commissioner 
+  - police
   - agm
-  - elections
   - roadworks
   - committee
 coverImage: "./PXL_20210511_200023079.NIGHT_-scaled.jpg"
+section: meetings
 ---
 
 And they’re in. Election results are back and the PCF committee poured over the details of who won what ward. Several new members are known for their positivity to cycling, others are open to learn, and others hmmm, well there might be some convincing to do - but we have evidence on our side. We will be writing to all new members to invite them to pop along to an open meeting, or feel free to ask us anything cycling related.

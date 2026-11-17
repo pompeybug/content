@@ -1,12 +1,11 @@
 ---
-
 title: Portsmouth Cycle Forum Annual General Meeting
 tags:
- - agm
- - open-meeting
- - "2009"
+  - agm
+  - open-meeting
 date: 2009-03-12
 ok: true
+section: meetings
 ---
 
 Portsmouth Cycle Forum Annual General Meeting

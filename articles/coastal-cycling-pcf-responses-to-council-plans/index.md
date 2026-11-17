@@ -1,19 +1,17 @@
 ---
-
 title: "Coastal cycling: PCF responses to council plans"
 date: 2019-04-01
-tags:  
-  - campaigns
+tags:
   - city-council
   - cycle-routes
-  - infrastructure 
+  - infrastructure
   - coastal-defence
-  - consultation
-  - planning-application
-  - responses
+  - consultations
+  - planning
   - seafront
   - tipner
 coverImage: "./seafront-masterplan-cycling-walking-1038x576-1.png"
+section: campaigns
 ---
 
 There’s been a lot going on lately with three major consultations for us to respond to, so of course we’ve been kept pretty busy in making sure we know all the details, lobbying to make sure the planners keep cycling in mind.

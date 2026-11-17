@@ -1,13 +1,11 @@
 ---
-
 title: "Kidical Mass: Families Demand Safe Cycling Infrastructure"
 date: 2023-04-11
-tags:  
+tags:
   - rides
-  - events
-  - latest-news 
   - kidical-mass
 coverImage: "./kidical-mass-portsmouth.jpg"
+section: rides-and-events
 ---
 
 Portsmouth joins a growing global movement of Kidical Mass cycle rides in a call for safe cycling  infrastructure which a 4-year-old and a 94-year-old could use for daily transport.   Around 40 children and adults joined the first ride in September 2022 during international Kidical Mass weekend which saw over 200 cities in 15 countries taking part, including cities in UK: Bath, Bristol, Barry, Exeter, Bournemouth, London, Norwich, Derby, Birmingham, Leamington Spa Warwickshire, York, Newcastle, North Tyneside, Edinburgh, Dundee and Inverness.  A second Christmas themed ride in December 2022 attracted around 45 participants despite chilly conditions on the day. With the youngest person being just a few months old and traveling in a cargo bike.

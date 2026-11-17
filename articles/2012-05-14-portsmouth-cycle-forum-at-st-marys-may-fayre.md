@@ -1,10 +1,8 @@
 ---
 title: Portsmouth Cycle Forum at St Mary’s May Fayre
 id: 3271
-tags:
-  - events
-  - pcf
 date: 2012-05-14
+section: rides-and-events
 ---
 
 On the Bank holiday Monday Portsmouth Cycle Forum members Chris, Jayne, John, Pam and Roger went along to the popular May Fayre at St Mary’s Church in Fratton. It was wet all morning but we kept warm and dry at our stand inside! We spoke to loads of people – some committed cyclists, others lapsed; as well as non-cyclists.

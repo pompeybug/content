@@ -2,10 +2,10 @@
 title: "#WeRidePortsmouth - Berlin"
 date: 2024-08-02
 tags:
- - werideportsmouth
- - family
- - stories
+  - we-ride-portsmouth
+  - family-cycling
 coverImage: ./group.jpg
+section: stories
 ---
 
 # Background

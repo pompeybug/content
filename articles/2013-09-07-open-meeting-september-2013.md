@@ -1,11 +1,10 @@
 ---
-
 title: Open Meeting - September 2013
 tags:
   - open-meeting
-  - pcf
 id: 3821
 date: 2013-09-07
+section: meetings
 ---
 
 The next PCF open meeting will take place at 7pm on Thursday 12th September at The Learning Place.  We’ll be demonstrating Open Streetmap, the user-generated online mapping tool - this topic was deferred from the last meeting due to the discussion regarding the Fratton Way Tesco.

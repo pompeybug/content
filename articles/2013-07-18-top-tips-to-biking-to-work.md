@@ -1,17 +1,11 @@
 ---
-
 title: Top Tips to Biking to Work
 tags:
-  - biking
-  - cycling
-  - healthy
-  - lifestyle
   - safety
-  - work
   - cyclenation
 id: 3755
 date: 2013-07-18 17:53:55
-
+section: guides
 ---
 
 Biking to work is one of the best activities you can do to maintain a healthy lifestyle and make sure you have regular exercise. Not only is it a great form of physical activity but also it is also greatly beneficial to the environment and more cities are introducing cycle routes and encouraging citizens to use their bikes or public transport as long as they leave the car at home.

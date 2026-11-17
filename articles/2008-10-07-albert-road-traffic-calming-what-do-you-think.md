@@ -1,11 +1,10 @@
 ---
-
 title: Albert Road traffic calming - What do you think?
 date: 2008-10-07
 tags:
-    - "2008"
-    - infrastructure
+  - infrastructure
 ok: true
+section: campaigns
 ---
 
 The traffic calming scheme in Albert Road by the Kings Theatre is largely completed and we are seeking views of cyclists on whether you like it or not.

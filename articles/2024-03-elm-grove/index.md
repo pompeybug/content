@@ -2,11 +2,11 @@
 title: Protected Cycle Space Finally Coming to Elm Grove??!!
 date: 2024-03-28
 tags:
- - infrastructure
- - campaigns
- - elm-grove
- - wands
+  - infrastructure
+  - elm-grove
+  - wands
 coverImage: "./egtro.jpg"
+section: campaigns
 ---
 
 For years now, many cyclists have complained, reported and

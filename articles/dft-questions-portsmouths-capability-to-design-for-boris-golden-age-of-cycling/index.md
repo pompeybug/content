@@ -1,13 +1,12 @@
 ---
-
 title: DFT questions Portsmouth's ability to design for Boris' golden age of cycling
 date: 2021-08-02
-tags:  
-  - dft
-  - infrastructure 
-  - capability-fund
+tags:
   - government
+  - infrastructure
+  - capability-fund
 coverImage: "./IMG_2280-1.jpeg"
+section: campaigns
 ---
 
 The Department for Transport awarded money for walking and cycling from its Capability Fund on Friday, after almost two months of delays. In this article, we discuss how Portsmouth City Council has missed out on their share of this funding after failing to follow the DfT’s instructions to deliver meaningful cycle infrastructure in 2021

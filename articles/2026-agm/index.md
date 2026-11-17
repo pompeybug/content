@@ -3,10 +3,8 @@ title: 2026 AGM ++
 date: 2026-04-21
 tags:
   - agm
-  - events
-  - meetings
-  - pcf
 coverImage: "./agm.png"
+section: meetings
 ---
 
 So happy! 

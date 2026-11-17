@@ -2,10 +2,9 @@
 title: Love Your Bike
 id: 996
 tags:
-  - campaigns
-  - pcc
-  - events
+  - city-council
 date: 2010-03-05 09:28:27
+section: rides-and-events
 ---
 
 figure: header_04-150x150.jpg

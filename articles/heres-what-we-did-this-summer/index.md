@@ -1,21 +1,20 @@
 ---
-
 title: Here’s what we did this summer…
 date: 2019-10-27
-tags:  
+tags:
   - agm
-  - blog
   - city-council
-  - bike-route
+  - cycle-routes
   - infrastructure
   - air-quality
   - coastal-defence
   - goldsmith-avenue
-  - planning-application
+  - planning
   - wands
   - committee
-  - A City to Share
+  - a-city-to-share
 coverImage: "./IMG_20200711_051019-EFFECTS-scaled-e1606062257468.jpg"
+section: campaigns
 ---
 
 Written by: Ian Saunders, PCF Chair

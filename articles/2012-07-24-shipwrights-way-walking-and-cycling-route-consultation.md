@@ -1,12 +1,13 @@
 ---
-
 title: "Shipwright's Way Walking and Cycling Route Consultation"
 id: 3440
 tags:
   - cycle-routes
+  - consultations
 date: 2012-07-24
 coverImage: /public/assets/Shipwrights-Way-map1.jpg
 caption: Map of the proposed route
+section: campaigns
 ---
 
 The Shipwright's Way is a new 60-mile leisure path starting at Alice Holt Forest near Farnham and ending at Portsmouth Historic Dockyard, home of the Mary Rose, HMS Warrior and HMS Victory. The name reflects the journey of oak grown at Alice Holt to dockyards such as Portsmouth for medieval shipbuilding.

@@ -4,6 +4,7 @@ id: 1762
 tags:
   - opinion
 date: 2011-01-26
+section: stories
 ---
 
 Recently the Economist held a conference on the theme "Creating tomorrow's liveable cities", at which the keynote was Eric Pickles MP, Secretary of State for Communities and Local Government.  I heard an extract on [the Bike Show](http://thebikeshow.net/bike-blogging-jan-gehl-eric-pickles-mp/) and decided to write a response.

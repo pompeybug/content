@@ -1,9 +1,8 @@
 ---
 title: Bike Bus to Lifeboat Station Open Day
 id: 2641
-tags:
-  - events
-date: 2011-08-09 
+date: 2011-08-09
+section: rides-and-events
 ---
 
 All aboard the bike bus to the lifeboat station open day.  Join us for a ride to Ferry Road for the fun on Sunday 14th August.

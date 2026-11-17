@@ -1,12 +1,12 @@
 ---
-
 title: Cycle Forum Meeting Thursday 12 July
 id: 3400
 tags:
-  - meetings
+  - open-meeting
 date: 2012-07-07
 coverImage: /public/assets/Wiggle-workshops.jpg
 caption: Wiggle's workshop
+section: meetings
 ---
 
 July's meeting of Portsmouth Cycle Forum will be at the home of the largest on-line supplier of cycle goods, Wiggle at North Harbour. Wiggle have kindly allowed us to use their conference room for our bi-monthly get-together.  Starting at 7pm, we'll be getting updates on local cycling issues and having a look around Wiggle's cycle workshops.

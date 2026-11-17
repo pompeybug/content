@@ -4,6 +4,7 @@ id: 2632
 tags:
   - rides
 date: 2011-08-09
+section: rides-and-events
 ---
 
 Join us on Wednesday evening for a 'nip around the back'.  A lovely evening ride with spectacular views over the city and countryside behind.

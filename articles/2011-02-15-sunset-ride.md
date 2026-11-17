@@ -1,10 +1,10 @@
 ---
-
 title: Sunset Ride
 id: 1836
 tags:
   - rides
 date: 2011-02-15
+section: rides-and-events
 ---
 
 This Wednesday 16th February we will be meeting near the Victoria Park play area at  5.15 to go on the Healthy Pompey Sunset Ride. The route takes us around the less well known Horsea Island cycle route on the western side of Portsmouth. From the route we will enjoy some great views of the sun setting over Portsmouth Harbour.

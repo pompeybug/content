@@ -1,13 +1,13 @@
 ---
-
 title: Open Meeting and AGM
 id: 3952
 tags:
-  - meetings
-  - pcf
+  - agm
+  - open-meeting
 date: 2014-03-17
 coverImage: /public/assets/Portsmouth-Cathedral-of-St-John-the-Evangelist.jpg
 caption: Discovery Centre, Portsmouth RC Cathedral
+section: meetings
 ---
 
 Our next meeting is on Thursday 20 March 7pm at the [Discovery Centre, Portsmouth RC Cathedral](https://www.google.co.uk/maps?q=Portsmouth+RC+Cathedral&hl=en-GB&gbv=2&t=m&z=16).

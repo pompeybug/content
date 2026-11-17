@@ -1,24 +1,20 @@
 ---
-
 title: 2020 Vision - A Retrospective View
 date: 2021-02-20
-tags: 
-  - blog
-  - campaigns
+tags:
   - city-council
   - cycle-routes
   - environment
   - infrastructure
-  - meetings
-  - pcf
   - air-quality
   - eastern-road
   - eatf
   - elm-grove
   - ltn-1-20
-  - ltp
+  - local-transport-plan
   - committee
 coverImage: "./Sidenham-Terrence.jpg"
+section: campaigns
 ---
 
 Is there really anything new to be said about 2020?  A global pandemic irrevocably shaped the year on so many fronts. Cycle campaigning - although not important in the grand scheme of world events was inevitably one of them. For us in the committee of PCF it ended up being a much busier year than any of us expected…..

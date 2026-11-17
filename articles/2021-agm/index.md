@@ -1,14 +1,11 @@
 ---
-
 title: 2021 AGM - Documents
 date: 2021-03-22
-tags: 
+tags:
   - agm
-  - events
-  - meetings
-  - pcf
   - committee
 coverImage: "./agm4.png"
+section: meetings
 ---
 
 **Our 2021 Annual General Meeting will take place at 7.00pm on Thursday 22nd April.**

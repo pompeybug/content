@@ -1,12 +1,11 @@
 ---
-
 title: Learning Lessons From Tragedies
 date: 2024-06-04
-tags:  
-  - accident
-  - legal
+tags:
+  - safety
 coverImage: "./street.png"
 author: Paul Fretwell
+section: campaigns
 ---
 
  > _“Take care and be considerate of each other”_

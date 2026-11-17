@@ -3,10 +3,9 @@ title: Open Meeting February 2024
 date: 2024-02-10
 coverImage: ./audience.jpg
 tags:
- - Open-meeting
- - Lee-Woods
- - Lecture
- - Engineering
+  - open-meeting
+  - lee-woods
+section: meetings
 ---
 
 

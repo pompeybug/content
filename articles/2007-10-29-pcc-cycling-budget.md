@@ -1,12 +1,11 @@
 ---
-
 title: PCC Cycling Budget
 id: 370
 tags:
- - pcc
- - "2007"
+  - city-council
 date: 2007-10-29
 ok: true
+section: campaigns
 ---
 
 Portsmouth City Council Local Transport Capital Programme

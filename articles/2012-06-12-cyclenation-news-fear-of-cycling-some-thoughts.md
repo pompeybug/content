@@ -4,6 +4,7 @@ id: 3350
 tags:
   - cyclenation
 date: 2012-06-12
+section: news
 ---
 
 Dave Horten's [article about the fear of cycling](http://thinkingaboutcycling.wordpress.com/article-fear-of-cycling/) is worth a read, and worth sharing with those who support the view that wearing helmets should be compulsory.  It has a good reference list too with some good further reading and evidence.

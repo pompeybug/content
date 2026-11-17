@@ -2,8 +2,10 @@
 title: Growing Cycling Participation Conference
 id: 3323
 tags:
- - cyclenation
+  - cyclenation
+  - conference
 date: 2012-05-26
+section: news
 ---
 
 Growing Cycling Participation and Closing the Gender Gap
