@@ -1,13 +1,15 @@
 ---
-title: 2026 AGM
+title: 2026 AGM ++
 date: 2026-04-21
-tags: 
+tags:
   - agm
   - events
   - meetings
   - pcf
 coverImage: "./agm.png"
 ---
+
+So happy! 
 
 **Our 2026 Annual General Meeting will take place online at 7.00pm on Wednesday 22nd April.**
 
