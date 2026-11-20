@@ -10,8 +10,18 @@ hubspotForm:
   formId: 14c6a6e8-3fe4-45ab-a880-036d02230e49
 ---
 
-Membership of the Portsmouth Cycle Forum is currently **FREE**.
+Membership of Portsmouth Cycle Forum is **free**. Sign up to our mailing list and you are counted as a member.
 
-To be counted as a member you just have to sign-up to our mailing list, below.
+## Why join
 
-We will use the details you provide on this form to tell you about updates and events.
+- **Add your voice.** We speak for close to 450 members when we talk to the council. Every new member makes that case stronger.
+- **Hear what is happening.** We email you about updates, open meetings, rides and events.
+- **It costs nothing.** There is no fee, and you can unsubscribe at any time.
+
+## Your details
+
+We use the details you give on this form to tell you about updates and events. Our [privacy policy](/privacy-policy) explains how we look after them.
+
+## Want to do more?
+
+[Help us](/help) with some of your time, or [make a donation](/support-us).
